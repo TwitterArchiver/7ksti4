@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2074345524308922752",
+    "created_at": "2026-07-07T23:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074635950983086468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1991520340250681345",
+          "start": 0,
+          "username": "pray444peace_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074635950983086468",
+    "in_reply_to_user_id": "1991520340250681345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074345524308922752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pray444peace_ 收到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074345516373303296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmOQbza4AAt5gd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2074345524308922752",
+        "created_at": "2026-07-07T23:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074635950983086468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1991520340250681345",
+              "start": 0,
+              "username": "pray444peace_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074635950983086468",
+        "in_reply_to_user_id": "1991520340250681345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074345524308922752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pray444peace_ 收到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074345516373303296"
+          ]
+        },
+        "author_id": "1991520340250681345",
+        "conversation_id": "2074345524308922752",
+        "created_at": "2026-07-07T04:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074345524308922752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T55SbceoE7",
+              "end": 176,
+              "expanded_url": "https://x.com/pray444peace_/status/2074345524308922752/photo/1",
+              "media_key": "3_2074345516373303296",
+              "start": 153,
+              "url": "https://t.co/T55SbceoE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074345524308922752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.同步练习册42，43\n        2.书P62基础练习1～9（写作业本上）\n语:1.第十六课课后字词一个三遍（写作业本上）\n     2.一张A4小卷（昨天发的）\n英：1.同步练习册51～53\n        2.背 Unit4单词 （明天考）\n        3.预习书P52 a3课文@所有人 https://t.co/T55SbceoE7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 473,
+          "like_count": 5798,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T14:53:55.000Z",
+        "description": "小天使不说一句话",
+        "id": "1991520340250681345",
+        "location": "mazel tov",
+        "name": "和平天使不會死",
+        "pinned_tweet_id": "2067914863800988048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063286188199600128/d5Q9iImS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 49,
+          "like_count": 2243,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1131
+        },
+        "url": "",
+        "username": "pray444peace_",
+        "verified": false
+      }
+    ]
+  }
+}

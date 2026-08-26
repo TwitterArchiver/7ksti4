@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072768245439041537",
+        "3_2072768245434871808"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2072768257212420182",
+    "created_at": "2026-07-02T19:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072768257212420182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xbdKCqbSfo",
+          "end": 79,
+          "expanded_url": "https://x.com/7ksti4/status/2072768257212420182/photo/1",
+          "media_key": "3_2072768245439041537",
+          "start": 56,
+          "url": "https://t.co/xbdKCqbSfo"
+        },
+        {
+          "display_url": "pic.x.com/xbdKCqbSfo",
+          "end": 79,
+          "expanded_url": "https://x.com/7ksti4/status/2072768257212420182/photo/1",
+          "media_key": "3_2072768245434871808",
+          "start": 56,
+          "url": "https://t.co/xbdKCqbSfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072768257212420182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "磕完药人都变得正能量了，每次都是因为在现实过的很难受才选择吃药，然后吃完就想开了，好幸福啊…磕药分明就是在救我 https://t.co/xbdKCqbSfo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_2072768245439041537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPzvLsakAE6WXt.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1156,
+        "media_key": "3_2072768245434871808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPzvLra8AAB2b1.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072768245439041537",
+            "3_2072768245434871808"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2072768257212420182",
+        "created_at": "2026-07-02T19:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072768257212420182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbdKCqbSfo",
+              "end": 79,
+              "expanded_url": "https://x.com/7ksti4/status/2072768257212420182/photo/1",
+              "media_key": "3_2072768245439041537",
+              "start": 56,
+              "url": "https://t.co/xbdKCqbSfo"
+            },
+            {
+              "display_url": "pic.x.com/xbdKCqbSfo",
+              "end": 79,
+              "expanded_url": "https://x.com/7ksti4/status/2072768257212420182/photo/1",
+              "media_key": "3_2072768245434871808",
+              "start": 56,
+              "url": "https://t.co/xbdKCqbSfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072768257212420182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕完药人都变得正能量了，每次都是因为在现实过的很难受才选择吃药，然后吃完就想开了，好幸福啊…磕药分明就是在救我 https://t.co/xbdKCqbSfo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 465,
+          "like_count": 5454,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}
