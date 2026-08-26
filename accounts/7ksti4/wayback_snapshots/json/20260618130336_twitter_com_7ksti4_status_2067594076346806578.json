@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067562904271138915",
+    "created_at": "2026-06-18T13:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067594076346806578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1926506432276348928",
+          "start": 0,
+          "username": "linwei130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067594076346806578",
+    "in_reply_to_user_id": "1926506432276348928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067562904271138915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linwei130 第一次去医院我家里人也是这样说、后面再也没去过医院，然后花了两千请了个大师给我驱邪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067562904271138915",
+        "created_at": "2026-06-18T13:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067594076346806578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1926506432276348928",
+              "start": 0,
+              "username": "linwei130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067594076346806578",
+        "in_reply_to_user_id": "1926506432276348928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067562904271138915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linwei130 第一次去医院我家里人也是这样说、后面再也没去过医院，然后花了两千请了个大师给我驱邪…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926506432276348928",
+        "conversation_id": "2067562904271138915",
+        "created_at": "2026-06-18T10:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067562904271138915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067562904271138915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok啊我生物爹说精神病都是假的不存在的东西，医院报告全是骗人骗钱的666原来这种事真的会发生在我身上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢青春期性朋克 青少年音乐 敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 320,
+          "like_count": 3583,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:12:03.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖🍥｜小证2026.5.12｜已出柜 ｜ISFP-T｜碎碎念｜抑郁中｜同类互fo喵（没看到请在评论区说一下或者私信）｜老婆@Angel_SaveUsAll共号中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Angel_SaveUsAll"
+              }
+            ]
+          }
+        },
+        "id": "1926506432276348928",
+        "location": "距离你520m",
+        "name": "堇&小救「天使夺舍」",
+        "pinned_tweet_id": "2065462564105150741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046139436388524032/4kuTsCGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 650,
+          "like_count": 7166,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "linwei130",
+        "verified": true
+      }
+    ]
+  }
+}

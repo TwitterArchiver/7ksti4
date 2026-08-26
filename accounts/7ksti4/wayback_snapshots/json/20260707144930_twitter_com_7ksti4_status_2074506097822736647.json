@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2074456950155419838",
+    "created_at": "2026-07-07T14:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074506097822736647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971182614745841666",
+          "start": 0,
+          "username": "bjsd394019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074506097822736647",
+    "in_reply_to_user_id": "1971182614745841666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074456950155419838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bjsd394019 我最爱你了，小北京，我们可以一起在天台上弹吉他，然后观众就你一个人，我们会被领居打死，但是没关系，我们磕药药了他们拿我们没招，我们是来自逼建的b是兔子，把你喜欢的和不喜欢的吃进去拉出来…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074456936544915456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnzl8Sa0AA8reM.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2074456950155419838",
+        "created_at": "2026-07-07T14:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074506097822736647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971182614745841666",
+              "start": 0,
+              "username": "bjsd394019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074506097822736647",
+        "in_reply_to_user_id": "1971182614745841666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074456950155419838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bjsd394019 我最爱你了，小北京，我们可以一起在天台上弹吉他，然后观众就你一个人，我们会被领居打死，但是没关系，我们磕药药了他们拿我们没招，我们是来自逼建的b是兔子，把你喜欢的和不喜欢的吃进去拉出来…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074456936544915456"
+          ]
+        },
+        "author_id": "1971182614745841666",
+        "conversation_id": "2074456950155419838",
+        "created_at": "2026-07-07T11:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074456950155419838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZHsoEXM1Tb",
+              "end": 107,
+              "expanded_url": "https://x.com/bjsd394019/status/2074456950155419838/photo/1",
+              "media_key": "3_2074456936544915456",
+              "start": 84,
+              "url": "https://t.co/ZHsoEXM1Tb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074456950155419838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我最爱的女人，好吧，我好想念那个晚上她一直在给我弹琴然后我们一起唱歌简直就是合唱团阴郁的夜晚，我目标在八月前攒够2000块钱去逼建找她玩，记得带上烂番茄和右美沙芬 https://t.co/ZHsoEXM1Tb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 474,
+          "like_count": 5775,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T11:59:19.000Z",
+        "description": "",
+        "id": "1971182614745841666",
+        "name": "Karasushappiness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986033393499521024/QFRzaER__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 49,
+          "like_count": 1763,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "bjsd394019",
+        "verified": false
+      }
+    ]
+  }
+}

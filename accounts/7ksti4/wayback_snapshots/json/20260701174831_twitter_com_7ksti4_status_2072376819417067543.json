@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072376802547523584"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2072376819417067543",
+    "created_at": "2026-07-01T17:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072376819417067543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KIFzVOjGxL",
+          "end": 35,
+          "expanded_url": "https://x.com/7ksti4/status/2072376819417067543/photo/1",
+          "media_key": "3_2072376802547523584",
+          "start": 12,
+          "url": "https://t.co/KIFzVOjGxL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072376819417067543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们四个永远在一起吧… https://t.co/KIFzVOjGxL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072376802547523584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKPuNSa4AAvkX6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072376802547523584"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2072376819417067543",
+        "created_at": "2026-07-01T17:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072376819417067543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KIFzVOjGxL",
+              "end": 35,
+              "expanded_url": "https://x.com/7ksti4/status/2072376819417067543/photo/1",
+              "media_key": "3_2072376802547523584",
+              "start": 12,
+              "url": "https://t.co/KIFzVOjGxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072376819417067543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们四个永远在一起吧… https://t.co/KIFzVOjGxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 461,
+          "like_count": 5322,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

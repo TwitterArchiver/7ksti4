@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035765877837385728",
+        "3_2035765877828911104"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2035765913400795522",
+    "created_at": "2026-03-22T17:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T18:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035765913400795522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZcEFCK7GuM",
+          "end": 118,
+          "expanded_url": "https://x.com/7ksti4/status/2035765913400795522/photo/1",
+          "media_key": "3_2035765877837385728",
+          "start": 95,
+          "url": "https://t.co/ZcEFCK7GuM"
+        },
+        {
+          "display_url": "pic.x.com/ZcEFCK7GuM",
+          "end": 118,
+          "expanded_url": "https://x.com/7ksti4/status/2035765913400795522/photo/1",
+          "media_key": "3_2035765877828911104",
+          "start": 95,
+          "url": "https://t.co/ZcEFCK7GuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035765913400795522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还以为昨天会死，100t晚安+40t普瑞和一堆过期右美沙芬，没有事是好事，还是坏事呢，家里因为钱的事情又在吵架，我讲话也好伤人，对不起爸爸妈妈，但是我们活的又很痛苦，要是我在有用点就好了， https://t.co/ZcEFCK7GuM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035765913400795522].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035765913400795522",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035765913400795522"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035765877837385728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEB-R6pb0AA0iBR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035765877828911104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEB-R6nagAApr6L.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "在我还是一个学生的时候我期待有一把大砍刀插进我的脑门",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029776581938561024/yuxJ26Ay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 247,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 81
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

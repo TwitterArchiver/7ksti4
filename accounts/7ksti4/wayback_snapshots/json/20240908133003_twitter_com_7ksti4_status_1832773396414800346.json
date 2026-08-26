@@ -1,0 +1,89 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832773381197795328"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "1832773396414800346",
+    "created_at": "2024-09-08T13:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T14:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1832773396414800346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhjly7dx62",
+          "end": 26,
+          "expanded_url": "https://twitter.com/7ksti4/status/1832773396414800346/photo/1",
+          "media_key": "3_1832773381197795328",
+          "start": 3,
+          "url": "https://t.co/dHJlY7dX62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832773396414800346",
+    "lang": "und",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "no https://t.co/dHJlY7dX62"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832773396414800346].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832773396414800346",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832773396414800346"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1832773381197795328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW9RrgQWEAAo-NH.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "mc小逗比喜欢请扣666",
+        "id": "1774278217253433344",
+        "name": "7k7k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774292686952071168/t5WzUlp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 122,
+          "like_count": 257,
+          "listed_count": 0,
+          "tweet_count": 47
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2071126435495137348",
+    "created_at": "2026-06-28T08:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071151585921741204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1729436345913995265",
+          "start": 0,
+          "username": "p1NRed1_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071151585921741204",
+    "in_reply_to_user_id": "1729436345913995265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071126435495137348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p1NRed1_A 电吉他（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2071126435495137348",
+        "created_at": "2026-06-28T08:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071151585921741204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1729436345913995265",
+              "start": 0,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071151585921741204",
+        "in_reply_to_user_id": "1729436345913995265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071126435495137348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1NRed1_A 电吉他（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2071126435495137348",
+        "created_at": "2026-06-28T06:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071126435495137348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071126435495137348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想我到底要一个什么成年礼物预算5k以下买不了占很大位置的东西因为我房间很小"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 451,
+          "like_count": 5017,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 573,
+          "like_count": 1677,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 6454
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

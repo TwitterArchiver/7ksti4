@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2069476856366338511",
+    "created_at": "2026-06-24T16:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069816974188892545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025216486760157184",
+          "start": 0,
+          "username": "Cosmo2267651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069816974188892545",
+    "in_reply_to_user_id": "2025216486760157184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069605127422714145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cosmo2267651 🥺🥺🥺🥺💕💕💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2069476856366338511",
+        "created_at": "2026-06-24T16:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069816974188892545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025216486760157184",
+              "start": 0,
+              "username": "Cosmo2267651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069816974188892545",
+        "in_reply_to_user_id": "2025216486760157184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069605127422714145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cosmo2267651 🥺🥺🥺🥺💕💕💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025216486760157184",
+        "conversation_id": "2069476856366338511",
+        "created_at": "2026-06-24T02:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069605127422714145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069605127422714145",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069476856366338511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 好帅！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 432,
+          "like_count": 4721,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "同类欢迎互fo /oder/自殘\n➕lx互关、喜欢的随便、低能量频道不喜欢划走 infp 穷逼党、可以找我画oc呀🥹🥹无偿呀 https://t.co/f4RFWLxL0j 欢迎找我@Samb8u3 天使",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "Samb8u3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cosmo%E2%80%86…",
+                "end": 86,
+                "expanded_url": "https://ngl.link/cosmo%E2%80%86112266",
+                "start": 63,
+                "url": "https://t.co/f4RFWLxL0j"
+              }
+            ]
+          }
+        },
+        "id": "2025216486760157184",
+        "location": "✝️天堂✝️",
+        "name": "なえ",
+        "pinned_tweet_id": "2063481652211483003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068307831737188352/5wIg4SGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 270,
+          "like_count": 1173,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}

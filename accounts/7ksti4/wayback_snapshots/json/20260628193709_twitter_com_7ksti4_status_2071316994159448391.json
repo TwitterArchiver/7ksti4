@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071316983757553664"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2071316994159448391",
+    "created_at": "2026-06-28T19:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071316994159448391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dy18NZPHVR",
+          "end": 65,
+          "expanded_url": "https://x.com/7ksti4/status/2071316994159448391/photo/1",
+          "media_key": "3_2071316983757553664",
+          "start": 42,
+          "url": "https://t.co/Dy18NZPHVR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071316994159448391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上次演出去庆功宴，我们那个小提琴还问我手是怎么回事…好搞笑，我说这是拉小提琴拉的。 https://t.co/Dy18NZPHVR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 548,
+        "media_key": "3_2071316983757553664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7L0ooaQAAvDXn.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071316983757553664"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2071316994159448391",
+        "created_at": "2026-06-28T19:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071316994159448391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dy18NZPHVR",
+              "end": 65,
+              "expanded_url": "https://x.com/7ksti4/status/2071316994159448391/photo/1",
+              "media_key": "3_2071316983757553664",
+              "start": 42,
+              "url": "https://t.co/Dy18NZPHVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071316994159448391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次演出去庆功宴，我们那个小提琴还问我手是怎么回事…好搞笑，我说这是拉小提琴拉的。 https://t.co/Dy18NZPHVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 452,
+          "like_count": 5047,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

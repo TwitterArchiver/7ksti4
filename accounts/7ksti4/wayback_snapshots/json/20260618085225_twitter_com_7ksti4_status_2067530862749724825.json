@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067530846417117184"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067530862749724825",
+    "created_at": "2026-06-18T08:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067530862749724825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ThrqzpVhWU",
+          "end": 23,
+          "expanded_url": "https://x.com/7ksti4/status/2067530862749724825/photo/1",
+          "media_key": "3_2067530846417117184",
+          "start": 0,
+          "url": "https://t.co/ThrqzpVhWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067530862749724825",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ThrqzpVhWU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067530862749724825].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067530862749724825",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067530862749724825"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2067530846417117184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFYWb7a4AAsV7k.jpg",
+        "width": 1169
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢青春期性朋克 青少年音乐 敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 296,
+          "like_count": 3499,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 134
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067595036968284524",
+    "created_at": "2026-06-18T19:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067695866081894564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727971576505847808",
+          "start": 0,
+          "username": "Myslee4ping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067695866081894564",
+    "in_reply_to_user_id": "1727971576505847808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067694011075408215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Myslee4ping 我也是呢，无限回购，今天又抽完了一包这个☺️☺️💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067595036968284524",
+        "created_at": "2026-06-18T19:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067695866081894564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727971576505847808",
+              "start": 0,
+              "username": "Myslee4ping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067695866081894564",
+        "in_reply_to_user_id": "1727971576505847808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067694011075408215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Myslee4ping 我也是呢，无限回购，今天又抽完了一包这个☺️☺️💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727971576505847808",
+        "conversation_id": "2067595036968284524",
+        "created_at": "2026-06-18T19:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067694011075408215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067694011075408215",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067595036968284524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 我最喜欢这个爱喜橙子双爆了🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️\n重要的人：@watarua73143",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "watarua73143"
+              }
+            ]
+          }
+        },
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 326,
+          "like_count": 3808,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T08:45:12.000Z",
+        "description": "叫我小水就好🤍喜欢您来！\n低频率od者🩸偶尔一割\n不键政 很温良欢迎互fo",
+        "id": "1727971576505847808",
+        "location": "因為想成為你的明天所以活過了今天",
+        "name": "请给我被确认过的爱吧",
+        "pinned_tweet_id": "2067040323348640202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063467484926423040/T5UhfLH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 33,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "Myslee4ping",
+        "verified": false
+      }
+    ]
+  }
+}

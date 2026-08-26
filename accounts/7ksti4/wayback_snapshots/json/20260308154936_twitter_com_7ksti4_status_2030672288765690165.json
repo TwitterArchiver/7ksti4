@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2030358468650291390",
+    "created_at": "2026-03-08T15:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030672288765690165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531874456997863424",
+          "start": 0,
+          "username": "guodongmaikefe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030672288765690165",
+    "in_reply_to_user_id": "1531874456997863424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030358468650291390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guodongmaikefe2 喜欢连音响听，非常爽，听到喜欢的会感觉很安心像成仙了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2030358468650291390",
+        "created_at": "2026-03-08T15:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030672288765690165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531874456997863424",
+              "start": 0,
+              "username": "guodongmaikefe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030672288765690165",
+        "in_reply_to_user_id": "1531874456997863424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030358468650291390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guodongmaikefe2 喜欢连音响听，非常爽，听到喜欢的会感觉很安心像成仙了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531874456997863424",
+        "conversation_id": "2030358468650291390",
+        "created_at": "2026-03-07T19:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T20:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030358468650291390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030358468650291390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5617,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有音乐欣赏能力增强的这些药，比如普瑞dxm什么的，你们嗑的时候不戴耳机听歌吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "在我还是一个学生的时候我期待有一把大砍刀插进我的脑门",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029776581938561024/yuxJ26Ay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 240,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 66
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "开心不喝水不开心也不喝水",
+        "id": "1531874456997863424",
+        "location": "尖沙咀铁锅炖大鹅",
+        "name": "不开心就od",
+        "pinned_tweet_id": "2028673554653524135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984521028274700291/SnoaoxPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 163,
+          "like_count": 12428,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1339
+        },
+        "username": "guodongmaikefe2",
+        "verified": false
+      }
+    ]
+  }
+}

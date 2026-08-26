@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2074422026782281873",
+    "created_at": "2026-07-07T09:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074430786997309658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1923100693944299520",
+          "start": 0,
+          "username": "MoYoHe_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074430786997309658",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074425262100599173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoYoHe_ 已屏蔽！🥺🥺🥺建人太讨厌了…完全就是一群自私自利的人…以为自已什么都懂一样😤😤😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2074422026782281873",
+        "created_at": "2026-07-07T09:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074430786997309658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074430786997309658",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074425262100599173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 已屏蔽！🥺🥺🥺建人太讨厌了…完全就是一群自私自利的人…以为自已什么都懂一样😤😤😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074422026782281873",
+        "created_at": "2026-07-07T09:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074425262100599173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074425262100599173",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074422026782281873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 依旧健全人发言，刚刚还碰见个30来岁的大叔搁那指点我😅说实话碰见这种的善用屏蔽吧，跟他们吵架感觉也是对牛弹琴了，继续过咱们自己的普通日常就挺好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 473,
+          "like_count": 5766,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 124,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 555
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

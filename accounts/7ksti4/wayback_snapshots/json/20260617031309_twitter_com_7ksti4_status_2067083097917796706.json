@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067083083359322112",
+        "3_2067083083359395840",
+        "3_2067083083359420416",
+        "3_2067083083363577856"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067083097917796706",
+    "created_at": "2026-06-17T03:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067083097917796706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/faulGfU3ts",
+          "end": 29,
+          "expanded_url": "https://x.com/7ksti4/status/2067083097917796706/photo/1",
+          "media_key": "3_2067083083359322112",
+          "start": 6,
+          "url": "https://t.co/faulGfU3ts"
+        },
+        {
+          "display_url": "pic.x.com/faulGfU3ts",
+          "end": 29,
+          "expanded_url": "https://x.com/7ksti4/status/2067083097917796706/photo/1",
+          "media_key": "3_2067083083359395840",
+          "start": 6,
+          "url": "https://t.co/faulGfU3ts"
+        },
+        {
+          "display_url": "pic.x.com/faulGfU3ts",
+          "end": 29,
+          "expanded_url": "https://x.com/7ksti4/status/2067083097917796706/photo/1",
+          "media_key": "3_2067083083359420416",
+          "start": 6,
+          "url": "https://t.co/faulGfU3ts"
+        },
+        {
+          "display_url": "pic.x.com/faulGfU3ts",
+          "end": 29,
+          "expanded_url": "https://x.com/7ksti4/status/2067083097917796706/photo/1",
+          "media_key": "3_2067083083363577856",
+          "start": 6,
+          "url": "https://t.co/faulGfU3ts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067083097917796706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那我去死呗 https://t.co/faulGfU3ts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2067083083359322112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_BHMjaAAAGyfp.jpg",
+        "width": 1024
+      },
+      {
+        "height": 968,
+        "media_key": "3_2067083083359395840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_BHMjbIAAHr7e.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2067083083359420416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_BHMjbgAAAJ_h.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2067083083363577856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_BHMka8AAsXqq.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067083083359322112",
+            "3_2067083083359395840",
+            "3_2067083083359420416",
+            "3_2067083083363577856"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067083097917796706",
+        "created_at": "2026-06-17T03:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067083097917796706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faulGfU3ts",
+              "end": 29,
+              "expanded_url": "https://x.com/7ksti4/status/2067083097917796706/photo/1",
+              "media_key": "3_2067083083359322112",
+              "start": 6,
+              "url": "https://t.co/faulGfU3ts"
+            },
+            {
+              "display_url": "pic.x.com/faulGfU3ts",
+              "end": 29,
+              "expanded_url": "https://x.com/7ksti4/status/2067083097917796706/photo/1",
+              "media_key": "3_2067083083359395840",
+              "start": 6,
+              "url": "https://t.co/faulGfU3ts"
+            },
+            {
+              "display_url": "pic.x.com/faulGfU3ts",
+              "end": 29,
+              "expanded_url": "https://x.com/7ksti4/status/2067083097917796706/photo/1",
+              "media_key": "3_2067083083359420416",
+              "start": 6,
+              "url": "https://t.co/faulGfU3ts"
+            },
+            {
+              "display_url": "pic.x.com/faulGfU3ts",
+              "end": 29,
+              "expanded_url": "https://x.com/7ksti4/status/2067083097917796706/photo/1",
+              "media_key": "3_2067083083363577856",
+              "start": 6,
+              "url": "https://t.co/faulGfU3ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067083097917796706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那我去死呗 https://t.co/faulGfU3ts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是牙次/08高中生/喜欢青春期性朋克 青少年音乐。。。/查成分互fo",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046271794450219009/9wGRpzB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 258,
+          "like_count": 3085,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

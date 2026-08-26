@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087210606248218624",
+        "3_2087210606281809920",
+        "3_2087210606281863168",
+        "3_2087210606285979648"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2087210639966228714",
+    "created_at": "2026-08-11T16:12:49.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087210639966228714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/soD9WPcHVm",
+          "end": 31,
+          "expanded_url": "https://x.com/7ksti4/status/2087210639966228714/photo/1",
+          "media_key": "3_2087210606248218624",
+          "start": 8,
+          "url": "https://t.co/soD9WPcHVm"
+        },
+        {
+          "display_url": "pic.x.com/soD9WPcHVm",
+          "end": 31,
+          "expanded_url": "https://x.com/7ksti4/status/2087210639966228714/photo/1",
+          "media_key": "3_2087210606281809920",
+          "start": 8,
+          "url": "https://t.co/soD9WPcHVm"
+        },
+        {
+          "display_url": "pic.x.com/soD9WPcHVm",
+          "end": 31,
+          "expanded_url": "https://x.com/7ksti4/status/2087210639966228714/photo/1",
+          "media_key": "3_2087210606281863168",
+          "start": 8,
+          "url": "https://t.co/soD9WPcHVm"
+        },
+        {
+          "display_url": "pic.x.com/soD9WPcHVm",
+          "end": 31,
+          "expanded_url": "https://x.com/7ksti4/status/2087210639966228714/photo/1",
+          "media_key": "3_2087210606285979648",
+          "start": 8,
+          "url": "https://t.co/soD9WPcHVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087210639966228714",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087210606248218624"
+      },
+      {
+        "media_key": "3_2087210606281809920"
+      },
+      {
+        "media_key": "3_2087210606281863168"
+      },
+      {
+        "media_key": "3_2087210606285979648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友们，以及我 https://t.co/soD9WPcHVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_2087210606248218624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdC_OTaUAAsl2S.jpg",
+        "width": 894
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087210606281809920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdC_Oba4AATx0B.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087210606281863168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdC_ObbsAAqHM7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087210606285979648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdC_OcagAAFO61.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087210606248218624",
+            "3_2087210606281809920",
+            "3_2087210606281863168",
+            "3_2087210606285979648"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2087210639966228714",
+        "created_at": "2026-08-11T16:12:49.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087210639966228714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/soD9WPcHVm",
+              "end": 31,
+              "expanded_url": "https://x.com/7ksti4/status/2087210639966228714/photo/1",
+              "media_key": "3_2087210606248218624",
+              "start": 8,
+              "url": "https://t.co/soD9WPcHVm"
+            },
+            {
+              "display_url": "pic.x.com/soD9WPcHVm",
+              "end": 31,
+              "expanded_url": "https://x.com/7ksti4/status/2087210639966228714/photo/1",
+              "media_key": "3_2087210606281809920",
+              "start": 8,
+              "url": "https://t.co/soD9WPcHVm"
+            },
+            {
+              "display_url": "pic.x.com/soD9WPcHVm",
+              "end": 31,
+              "expanded_url": "https://x.com/7ksti4/status/2087210639966228714/photo/1",
+              "media_key": "3_2087210606281863168",
+              "start": 8,
+              "url": "https://t.co/soD9WPcHVm"
+            },
+            {
+              "display_url": "pic.x.com/soD9WPcHVm",
+              "end": 31,
+              "expanded_url": "https://x.com/7ksti4/status/2087210639966228714/photo/1",
+              "media_key": "3_2087210606285979648",
+              "start": 8,
+              "url": "https://t.co/soD9WPcHVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087210639966228714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087210606248218624"
+          },
+          {
+            "media_key": "3_2087210606281809920"
+          },
+          {
+            "media_key": "3_2087210606281863168"
+          },
+          {
+            "media_key": "3_2087210606285979648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，以及我 https://t.co/soD9WPcHVm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=一凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击\n2.0版本：@4ksti7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "4ksti7"
+              }
+            ]
+          }
+        },
+        "id": "1774278217253433344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087210639966228714",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774278217253433344/1781697573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 479,
+          "like_count": 5880,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

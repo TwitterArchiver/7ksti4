@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072054593010450432",
+        "3_2072054593010425856"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072054606184784135",
+    "created_at": "2026-06-30T20:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T21:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072054606184784135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/THna0BmV3G",
+          "end": 128,
+          "expanded_url": "https://x.com/7ksti4/status/2072054606184784135/photo/1",
+          "media_key": "3_2072054593010450432",
+          "start": 105,
+          "url": "https://t.co/THna0BmV3G"
+        },
+        {
+          "display_url": "pic.x.com/THna0BmV3G",
+          "end": 128,
+          "expanded_url": "https://x.com/7ksti4/status/2072054606184784135/photo/1",
+          "media_key": "3_2072054593010425856",
+          "start": 105,
+          "url": "https://t.co/THna0BmV3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072054606184784135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想哭，啊，我刚刚还很快乐，一下子呢？我被拉回了x@ans，现实，我们是来自逼建的b是兔子乐队；致敬最伟大的普瑞巴林，致敬积木莫里斯，致敬科特课本，致敬科特课本的鸡吧毛一根，谢谢，这首歌送给黄婧，我最爱的女孩 https://t.co/THna0BmV3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072054593010450432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFqrJOawAACQ0w.jpg",
+        "width": 946
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2072054593010425856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFqrJOaYAACaFJ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072054593010450432",
+            "3_2072054593010425856"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072054606184784135",
+        "created_at": "2026-06-30T20:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072054606184784135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/THna0BmV3G",
+              "end": 128,
+              "expanded_url": "https://x.com/7ksti4/status/2072054606184784135/photo/1",
+              "media_key": "3_2072054593010450432",
+              "start": 105,
+              "url": "https://t.co/THna0BmV3G"
+            },
+            {
+              "display_url": "pic.x.com/THna0BmV3G",
+              "end": 128,
+              "expanded_url": "https://x.com/7ksti4/status/2072054606184784135/photo/1",
+              "media_key": "3_2072054593010425856",
+              "start": 105,
+              "url": "https://t.co/THna0BmV3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072054606184784135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想哭，啊，我刚刚还很快乐，一下子呢？我被拉回了x@ans，现实，我们是来自逼建的b是兔子乐队；致敬最伟大的普瑞巴林，致敬积木莫里斯，致敬科特课本，致敬科特课本的鸡吧毛一根，谢谢，这首歌送给黄婧，我最爱的女孩 https://t.co/THna0BmV3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 459,
+          "like_count": 5206,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 429
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

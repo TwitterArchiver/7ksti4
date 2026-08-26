@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976932739598499841"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "1976932767666782671",
+    "created_at": "2025-10-11T08:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T09:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976932767666782671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IJFqsu4HMW",
+          "end": 31,
+          "expanded_url": "https://x.com/7ksti4/status/1976932767666782671/photo/1",
+          "media_key": "3_1976932739598499841",
+          "start": 8,
+          "url": "https://t.co/IJFqsu4HMW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976932767666782671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好烦。集训好累 https://t.co/IJFqsu4HMW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1976932767666782671].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1976932767666782671",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1976932767666782671"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1976932739598499841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2952jibwAEKAHN.jpg",
+        "width": 1231
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "mc小逗比喜欢请扣666",
+        "id": "1774278217253433344",
+        "name": "蒙古、上单",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854076522317144064/odwkYc51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 176,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 29
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

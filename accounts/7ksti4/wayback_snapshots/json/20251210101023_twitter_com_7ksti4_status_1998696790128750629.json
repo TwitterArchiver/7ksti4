@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "1998381864701304916",
+    "created_at": "2025-12-10T10:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T11:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998696790128750629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1529957855335690240",
+          "start": 0,
+          "username": "a_babea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998696790128750629",
+    "in_reply_to_user_id": "1529957855335690240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998381864701304916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_babea 卧槽好美丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998381843964649472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7utsv8aYAA5Z9H.jpg",
+        "width": 1954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "1998381864701304916",
+        "created_at": "2025-12-10T10:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998696790128750629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1529957855335690240",
+              "start": 0,
+              "username": "a_babea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998696790128750629",
+        "in_reply_to_user_id": "1529957855335690240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998381864701304916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_babea 卧槽好美丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998381843964649472"
+          ]
+        },
+        "author_id": "1529957855335690240",
+        "conversation_id": "1998381864701304916",
+        "created_at": "2025-12-09T13:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998381864701304916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LFevWNnHuA",
+              "end": 48,
+              "expanded_url": "https://x.com/a_babea/status/1998381864701304916/photo/1",
+              "media_key": "3_1998381843964649472",
+              "start": 25,
+              "url": "https://t.co/LFevWNnHuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998381864701304916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 20584,
+          "like_count": 517,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡发现这个头发颜色真的巨好看啊........ https://t.co/LFevWNnHuA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "可汗/infj/绝望的滚妹",
+        "id": "1774278217253433344",
+        "name": "红发少年强奸事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854076522317144064/odwkYc51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 188,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T22:49:41.000Z",
+        "description": "",
+        "id": "1529957855335690240",
+        "name": "11",
+        "pinned_tweet_id": "1981043143022956802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944335509675003904/8AEeoAXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 303,
+          "like_count": 2200,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 1389
+        },
+        "username": "a_babea",
+        "verified": false
+      }
+    ]
+  }
+}

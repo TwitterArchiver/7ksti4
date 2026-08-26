@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071150165487214592",
+        "3_2071150165478776832"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071150177172541541",
+    "created_at": "2026-06-28T08:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071150177172541541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oxHS8zImGd",
+          "end": 31,
+          "expanded_url": "https://x.com/7ksti4/status/2071150177172541541/photo/1",
+          "media_key": "3_2071150165487214592",
+          "start": 8,
+          "url": "https://t.co/oxHS8zImGd"
+        },
+        {
+          "display_url": "pic.x.com/oxHS8zImGd",
+          "end": 31,
+          "expanded_url": "https://x.com/7ksti4/status/2071150177172541541/photo/1",
+          "media_key": "3_2071150165478776832",
+          "start": 8,
+          "url": "https://t.co/oxHS8zImGd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071150177172541541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亿万人…扔番茄 https://t.co/oxHS8zImGd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2071150165487214592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL40GiJbYAAs_4s.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071150165478776832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL40GiHaoAAcmqi.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071150165487214592",
+            "3_2071150165478776832"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071150177172541541",
+        "created_at": "2026-06-28T08:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071150177172541541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxHS8zImGd",
+              "end": 31,
+              "expanded_url": "https://x.com/7ksti4/status/2071150177172541541/photo/1",
+              "media_key": "3_2071150165487214592",
+              "start": 8,
+              "url": "https://t.co/oxHS8zImGd"
+            },
+            {
+              "display_url": "pic.x.com/oxHS8zImGd",
+              "end": 31,
+              "expanded_url": "https://x.com/7ksti4/status/2071150177172541541/photo/1",
+              "media_key": "3_2071150165478776832",
+              "start": 8,
+              "url": "https://t.co/oxHS8zImGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071150177172541541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亿万人…扔番茄 https://t.co/oxHS8zImGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 450,
+          "like_count": 5014,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

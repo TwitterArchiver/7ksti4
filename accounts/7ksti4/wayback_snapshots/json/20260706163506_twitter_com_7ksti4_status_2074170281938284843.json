@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2072331995506716805",
+    "created_at": "2026-07-06T16:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074170281938284843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011051704440274947",
+          "start": 0,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074170281938284843",
+    "in_reply_to_user_id": "2011051704440274947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073987629511782709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luminescence_0 小八被抓起来了👽👽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2072331995506716805",
+        "created_at": "2026-07-06T16:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074170281938284843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011051704440274947",
+              "start": 0,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074170281938284843",
+        "in_reply_to_user_id": "2011051704440274947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073987629511782709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luminescence_0 小八被抓起来了👽👽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011051704440274947",
+        "conversation_id": "2072331995506716805",
+        "created_at": "2026-07-06T04:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073987629511782709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073987629511782709",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072331995506716805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 流泪小八😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 471,
+          "like_count": 5625,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "08 // Agender 🖤🩶🤍💚, 一个孤独的醋坛子，Year 2 in Acc，antipathy world\n私信开放，欢迎扩列（略微负能，缺爱b，我可能会伤到你哦），看成分回fo",
+        "id": "2011051704440274947",
+        "location": "武汉",
+        "name": "Luminescence💚",
+        "pinned_tweet_id": "2074081204878676420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067997695630004224/aWWazFMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 347,
+          "like_count": 1741,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "luminescence_0",
+        "verified": false
+      }
+    ]
+  }
+}

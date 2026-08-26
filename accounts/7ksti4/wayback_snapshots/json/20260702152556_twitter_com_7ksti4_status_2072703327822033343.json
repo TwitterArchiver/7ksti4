@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2072670852999721266",
+    "created_at": "2026-07-02T15:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072703327822033343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4368377476",
+          "start": 0,
+          "username": "Kamo67398586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072703327822033343",
+    "in_reply_to_user_id": "4368377476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072691174738161686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kamo67398586 完全正确！！！b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2072670852999721266",
+        "created_at": "2026-07-02T15:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072703327822033343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4368377476",
+              "start": 0,
+              "username": "Kamo67398586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072703327822033343",
+        "in_reply_to_user_id": "4368377476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072691174738161686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kamo67398586 完全正确！！！b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4368377476",
+        "conversation_id": "2072670852999721266",
+        "created_at": "2026-07-02T14:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072691174738161686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072691174738161686",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072670852999721266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 numbergirl好好听。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 464,
+          "like_count": 5378,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T04:15:03.000Z",
+        "description": "我是時雨~前世被当成入机的女子\n喜欢看动画玩游戏听音乐画画阅读 欢迎互fo\n纯绿🚪 伤口定制（特效妆容制作不违反规则）",
+        "id": "4368377476",
+        "name": "Kamo",
+        "pinned_tweet_id": "2066913943923367978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063131459255508992/pzhLfdHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 32,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "Kamo67398586",
+        "verified": false
+      }
+    ]
+  }
+}

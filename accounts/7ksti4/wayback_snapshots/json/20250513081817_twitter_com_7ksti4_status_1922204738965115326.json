@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "1900075649529753770",
+    "created_at": "2025-05-13T08:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T09:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922204738965115326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1349735619325423623",
+          "start": 0,
+          "username": "__lxy__llll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922204738965115326",
+    "in_reply_to_user_id": "1349735619325423623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900662658015326552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__lxy__llll 我喜欢你你喜欢我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "1900075649529753770",
+        "created_at": "2025-05-13T08:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T09:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922204738965115326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1349735619325423623",
+              "start": 0,
+              "username": "__lxy__llll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922204738965115326",
+        "in_reply_to_user_id": "1349735619325423623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900662658015326552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__lxy__llll 我喜欢你你喜欢我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349735619325423623",
+        "conversation_id": "1900075649529753770",
+        "created_at": "2025-03-14T21:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T22:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900662658015326552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900662658015326552",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900075649529753770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "mc小逗比喜欢请扣666",
+        "id": "1774278217253433344",
+        "name": "蒙古、上单",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854076522317144064/odwkYc51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 161,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-14T15:10:35.000Z",
+        "description": "",
+        "id": "1349735619325423623",
+        "name": "琉璃灬玲珑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350767654072508416/ukDMBgwX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 192,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "__lxy__llll",
+        "verified": false
+      }
+    ]
+  }
+}

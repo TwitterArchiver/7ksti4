@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067595036968284524",
+    "created_at": "2026-06-18T16:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067648003368956364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1401219416310775808",
+          "start": 0,
+          "username": "QingGuo_maimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067648003368956364",
+    "in_reply_to_user_id": "1401219416310775808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067645566386057534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingGuo_maimai 人和人之间的关系感情很奇妙呀，如果说到软万红会想到他感觉是某种意义上的联结（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067595036968284524",
+        "created_at": "2026-06-18T16:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067648003368956364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1401219416310775808",
+              "start": 0,
+              "username": "QingGuo_maimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067648003368956364",
+        "in_reply_to_user_id": "1401219416310775808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067645566386057534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingGuo_maimai 人和人之间的关系感情很奇妙呀，如果说到软万红会想到他感觉是某种意义上的联结（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401219416310775808",
+        "conversation_id": "2067595036968284524",
+        "created_at": "2026-06-18T16:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067645566386057534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067645566386057534",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067645050507661759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 第一次尝试软红万是因为认识一个和我一样褒贬不一的男生，他和我一样有坏和好的面，但我只希望大家在一个地区里面都能好好相处，过去只是大家的不成熟，和任何人和好是对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 294,
+          "like_count": 3661,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 164
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-05T16:48:52.000Z",
+        "description": "‖07身心男单‖异性恋‖一般打工仔‖只发点生活日常当隔壁qq空间‖互fo欢迎‖中国人‖会一些日语‖粤语客家话ok\n注意∶本人符合国家法律18岁抽烟喝酒可能让您感受不满谅解",
+        "id": "1401219416310775808",
+        "name": "海南嫩青果",
+        "pinned_tweet_id": "2064018688249077780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063117022821830656/VEq2eRg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 1195,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 147
+        },
+        "username": "QingGuo_maimai",
+        "verified": false
+      }
+    ]
+  }
+}

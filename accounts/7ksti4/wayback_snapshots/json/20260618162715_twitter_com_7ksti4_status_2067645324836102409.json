@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067640148872114387",
+    "created_at": "2026-06-18T16:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067645324836102409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1868647785438003200",
+          "start": 0,
+          "username": "GreyWallStoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067645324836102409",
+    "in_reply_to_user_id": "1868647785438003200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067640837773656456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreyWallStoss 好呀！努力尝试🥺🥺💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067640148872114387",
+        "created_at": "2026-06-18T16:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067645324836102409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1868647785438003200",
+              "start": 0,
+              "username": "GreyWallStoss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067645324836102409",
+        "in_reply_to_user_id": "1868647785438003200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067640837773656456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreyWallStoss 好呀！努力尝试🥺🥺💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868647785438003200",
+        "conversation_id": "2067640148872114387",
+        "created_at": "2026-06-18T16:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067640837773656456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067640837773656456",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067640148872114387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 刚开始手卷有点难 \n\n可以买个卷烟器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 291,
+          "like_count": 3650,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T13:22:16.000Z",
+        "description": "决定开一个号发一些大号不方便发的东西/和大号画风不符合的东西/药物/音乐/什么的/如果私自回关老师们造成不安很抱歉！老师们可以直接关注",
+        "id": "1868647785438003200",
+        "name": "撞擊灰色的牆",
+        "pinned_tweet_id": "1868666322785341698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869716680596697088/q_IADrcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 133,
+          "like_count": 1234,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "GreyWallStoss",
+        "verified": false
+      }
+    ]
+  }
+}

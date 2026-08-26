@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007859889339793408"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2007859909707301337",
+    "created_at": "2026-01-04T17:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T18:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007859909707301337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E0pchpbrfi",
+          "end": 27,
+          "expanded_url": "https://x.com/7ksti4/status/2007859909707301337/photo/1",
+          "media_key": "3_2007859889339793408",
+          "start": 4,
+          "url": "https://t.co/E0pchpbrfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007859909707301337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很想死 https://t.co/E0pchpbrfi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007859909707301337].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007859909707301337",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007859909707301337"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007859889339793408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91Z7mbagAAOKPC.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是小牙齿/infj/绝望的滚妹   在我还是一个学生的时候我期待有一把大砍刀插进我的脑门",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854076522317144064/odwkYc51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 206,
+          "like_count": 1417,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 53
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2074282026497343879",
+    "created_at": "2026-07-06T23:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T00:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074282026497343879"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074282026497343879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "20t加巴+10t右美，还是很舒服的，有普瑞的感觉，然后不会吐，刚开始微微胃痛，有优美也有普瑞的感觉，后面就是很幸福的胡言乱语啦！🤤🤤🤤🤤但还是有普瑞的打嗝尿闭😌😌👽👽👽一直在打嗝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2074282026497343879",
+        "created_at": "2026-07-06T23:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074282026497343879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074282026497343879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20t加巴+10t右美，还是很舒服的，有普瑞的感觉，然后不会吐，刚开始微微胃痛，有优美也有普瑞的感觉，后面就是很幸福的胡言乱语啦！🤤🤤🤤🤤但还是有普瑞的打嗝尿闭😌😌👽👽👽一直在打嗝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 471,
+          "like_count": 5727,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

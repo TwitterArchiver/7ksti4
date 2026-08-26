@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2074190935311946170",
+    "created_at": "2026-07-07T09:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074420124648632439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4368377476",
+          "start": 0,
+          "username": "Kamo67398586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074420124648632439",
+    "in_reply_to_user_id": "4368377476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074349299857871229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kamo67398586 抖男死那个了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2074190935311946170",
+        "created_at": "2026-07-07T09:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074420124648632439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4368377476",
+              "start": 0,
+              "username": "Kamo67398586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074420124648632439",
+        "in_reply_to_user_id": "4368377476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074349299857871229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kamo67398586 抖男死那个了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4368377476",
+        "conversation_id": "2074190935311946170",
+        "created_at": "2026-07-07T04:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074349299857871229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074349299857871229",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074190935311946170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 抖男好蠢好恶心好猥琐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 473,
+          "like_count": 5742,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T04:15:03.000Z",
+        "description": "我是時雨~前世被当成入机的女子\n喜欢看动画玩游戏听音乐画画阅读 欢迎互fo\n纯绿🚪 伤口定制（特效妆容制作不违反规则）",
+        "id": "4368377476",
+        "name": "Kamo",
+        "pinned_tweet_id": "2066913943923367978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063131459255508992/pzhLfdHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 34,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "Kamo67398586",
+        "verified": false
+      }
+    ]
+  }
+}

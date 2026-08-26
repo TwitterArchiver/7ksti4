@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067956498911855044",
+    "created_at": "2026-06-19T13:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067956498911855044"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067956498911855044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人现实是和陌生人对话都做不到的社交障碍，感觉和不认识的人说话好尴尬，就算别人主动和我说话我也接不上，但是互联网完全不会这样(_ _），感觉交流挺自然的，，，除非多人群聊不敢发言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067956498911855044",
+        "created_at": "2026-06-19T13:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067956498911855044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067956498911855044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人现实是和陌生人对话都做不到的社交障碍，感觉和不认识的人说话好尴尬，就算别人主动和我说话我也接不上，但是互联网完全不会这样(_ _），感觉交流挺自然的，，，除非多人群聊不敢发言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 368,
+          "like_count": 3935,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

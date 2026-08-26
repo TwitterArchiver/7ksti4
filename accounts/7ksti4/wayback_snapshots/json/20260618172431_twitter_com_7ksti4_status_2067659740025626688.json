@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067659733834878976"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067659740025626688",
+    "created_at": "2026-06-18T17:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067659740025626688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《stay home club》，由 鼠鼠鼠 演唱，收录于《where is my mice?》专辑中，《stay home club》下载，《stay home club》在线试听，更多stay home club相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/9hRGmzK",
+          "end": 58,
+          "expanded_url": "https://163cn.tv/9hRGmzK",
+          "start": 35,
+          "status": 200,
+          "title": "stay home club - 鼠鼠鼠 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=3390240457&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=3278912821&playerUIModeId=1379005&app_version=9.5.30&dlt=0846",
+          "url": "https://t.co/ecdzPFo1DS"
+        },
+        {
+          "display_url": "pic.x.com/QZ0lPrf7F6",
+          "end": 82,
+          "expanded_url": "https://x.com/7ksti4/status/2067659740025626688/photo/1",
+          "media_key": "3_2067659733834878976",
+          "start": 59,
+          "url": "https://t.co/QZ0lPrf7F6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067659740025626688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享鼠鼠鼠的单曲《stay home club》  (@网易云音乐) https://t.co/ecdzPFo1DS https://t.co/QZ0lPrf7F6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 135,
+        "media_key": "3_2067659733834878976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHNkq-bUAA1pFs.jpg",
+        "width": 135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067659733834878976"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067659740025626688",
+        "created_at": "2026-06-18T17:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067659740025626688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《stay home club》，由 鼠鼠鼠 演唱，收录于《where is my mice?》专辑中，《stay home club》下载，《stay home club》在线试听，更多stay home club相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/9hRGmzK",
+              "end": 58,
+              "expanded_url": "https://163cn.tv/9hRGmzK",
+              "start": 35,
+              "status": 200,
+              "title": "stay home club - 鼠鼠鼠 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&id=3390240457&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=3278912821&playerUIModeId=1379005&app_version=9.5.30&dlt=0846",
+              "url": "https://t.co/ecdzPFo1DS"
+            },
+            {
+              "display_url": "pic.x.com/QZ0lPrf7F6",
+              "end": 82,
+              "expanded_url": "https://x.com/7ksti4/status/2067659740025626688/photo/1",
+              "media_key": "3_2067659733834878976",
+              "start": 59,
+              "url": "https://t.co/QZ0lPrf7F6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067659740025626688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享鼠鼠鼠的单曲《stay home club》  (@网易云音乐) https://t.co/ecdzPFo1DS https://t.co/QZ0lPrf7F6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️\n重要的人：@watarua73143",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "watarua73143"
+              }
+            ]
+          }
+        },
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 305,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067651475413872640",
+        "3_2067651475355127808"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067651494153977887",
+    "created_at": "2026-06-18T16:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067651494153977887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wl2JEILyfw",
+          "end": 55,
+          "expanded_url": "https://x.com/7ksti4/status/2067651494153977887/photo/1",
+          "media_key": "3_2067651475413872640",
+          "start": 32,
+          "url": "https://t.co/wl2JEILyfw"
+        },
+        {
+          "display_url": "pic.x.com/wl2JEILyfw",
+          "end": 55,
+          "expanded_url": "https://x.com/7ksti4/status/2067651494153977887/photo/1",
+          "media_key": "3_2067651475355127808",
+          "start": 32,
+          "url": "https://t.co/wl2JEILyfw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067651494153977887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想去脏手指现场发的小物料，原来做这些东西这么花钱(＞人＜;)， https://t.co/wl2JEILyfw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067651475413872640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHGD99bMAAtx3P.jpg",
+        "width": 755
+      },
+      {
+        "height": 686,
+        "media_key": "3_2067651475355127808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHGD9va0AAELZp.jpg",
+        "width": 484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067651475413872640",
+            "3_2067651475355127808"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067651494153977887",
+        "created_at": "2026-06-18T16:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067651494153977887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wl2JEILyfw",
+              "end": 55,
+              "expanded_url": "https://x.com/7ksti4/status/2067651494153977887/photo/1",
+              "media_key": "3_2067651475413872640",
+              "start": 32,
+              "url": "https://t.co/wl2JEILyfw"
+            },
+            {
+              "display_url": "pic.x.com/wl2JEILyfw",
+              "end": 55,
+              "expanded_url": "https://x.com/7ksti4/status/2067651494153977887/photo/1",
+              "media_key": "3_2067651475355127808",
+              "start": 32,
+              "url": "https://t.co/wl2JEILyfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067651494153977887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去脏手指现场发的小物料，原来做这些东西这么花钱(＞人＜;)， https://t.co/wl2JEILyfw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 296,
+          "like_count": 3672,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

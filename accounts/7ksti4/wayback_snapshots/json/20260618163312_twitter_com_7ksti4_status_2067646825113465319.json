@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067336904320889250",
+    "created_at": "2026-06-18T16:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067646825113465319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727971576505847808",
+          "start": 0,
+          "username": "Myslee4ping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067646825113465319",
+    "in_reply_to_user_id": "1727971576505847808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067336904320889250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Myslee4ping 需要一个时机调整一下自己呢🥺🥺摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067336904320889250",
+        "created_at": "2026-06-18T16:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067646825113465319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727971576505847808",
+              "start": 0,
+              "username": "Myslee4ping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067646825113465319",
+        "in_reply_to_user_id": "1727971576505847808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067336904320889250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Myslee4ping 需要一个时机调整一下自己呢🥺🥺摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727971576505847808",
+        "conversation_id": "2067336904320889250",
+        "created_at": "2026-06-17T20:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067336904320889250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067336904320889250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一看到别人都毕业了，我就要跳楼，我一直哭啊，谁来赔我这一生好光景啊，我中考是校前十，高中也是重点班，高考录取的本科也还不错，毕竟这个地方连985都没有，和我同届高考的没我考得好的人都找到工作或者考研上岸了，精神病把我毁了，我的人生停滞了两年并且不知道未来会不会走上正轨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 294,
+          "like_count": 3658,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T08:45:12.000Z",
+        "description": "叫我小水就好🤍喜欢您来！\n低频率od者🩸偶尔一割\n不键政 很温良欢迎互fo",
+        "id": "1727971576505847808",
+        "location": "因為想成為你的明天所以活過了今天",
+        "name": "请给我被确认过的爱吧",
+        "pinned_tweet_id": "2067040323348640202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063467484926423040/T5UhfLH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 32,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "Myslee4ping",
+        "verified": false
+      }
+    ]
+  }
+}

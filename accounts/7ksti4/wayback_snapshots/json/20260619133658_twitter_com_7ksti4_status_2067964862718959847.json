@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067893516458692999",
+    "created_at": "2026-06-19T13:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067964862718959847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938232468076957698",
+          "start": 0,
+          "username": "1yuki475740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067964862718959847",
+    "in_reply_to_user_id": "1938232468076957698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067893516458692999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@1yuki475740 小茂密"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067893514046959616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKiMeIacAAakwe.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067893516458692999",
+        "created_at": "2026-06-19T13:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067964862718959847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938232468076957698",
+              "start": 0,
+              "username": "1yuki475740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067964862718959847",
+        "in_reply_to_user_id": "1938232468076957698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067893516458692999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@1yuki475740 小茂密"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067893514046959616"
+          ]
+        },
+        "author_id": "1938232468076957698",
+        "conversation_id": "2067893516458692999",
+        "created_at": "2026-06-19T08:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067893516458692999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQBhylkx2h",
+              "end": 23,
+              "expanded_url": "https://x.com/1yuki475740/status/2067893516458692999/photo/1",
+              "media_key": "3_2067893514046959616",
+              "start": 0,
+              "url": "https://t.co/GQBhylkx2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067893516458692999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/GQBhylkx2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 368,
+          "like_count": 3942,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T13:47:00.000Z",
+        "description": "𝖆 𝖈𝖔𝖗𝖕𝖘𝖊\n        𝕴 ❤️ 𝕿𝖗𝖆𝖓𝖘𝖞𝖑𝖛𝖆𝖓𝖎𝖆",
+        "id": "1938232468076957698",
+        "location": "𝖍𝖊𝖆𝖛𝖊𝖓",
+        "name": "Yuki",
+        "pinned_tweet_id": "2061617482830590458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053797917572665344/CsS3QgTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 114,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "1yuki475740",
+        "verified": false
+      }
+    ]
+  }
+}

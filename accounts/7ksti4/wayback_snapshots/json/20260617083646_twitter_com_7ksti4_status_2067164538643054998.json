@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067164525397479425"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067164538643054998",
+    "created_at": "2026-06-17T08:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067164538643054998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NJulW367d",
+          "end": 42,
+          "expanded_url": "https://x.com/7ksti4/status/2067164538643054998/photo/1",
+          "media_key": "3_2067164525397479425",
+          "start": 19,
+          "url": "https://t.co/0NJulW367d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067164538643054998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "审核大大，这是一个瑞幸加三个蜜雪冰城 https://t.co/0NJulW367d"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067164538643054998].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067164538643054998",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067164538643054998"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2067164525397479425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLALLvybEAEy_GA.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是牙次/08高中生/喜欢青春期性朋克 青少年音乐，躁动的青春期我好想拿起大砍刀杀人/查成分互fo",
+        "id": "1774278217253433344",
+        "name": "哑巴儿歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 259,
+          "like_count": 3115,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 96
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

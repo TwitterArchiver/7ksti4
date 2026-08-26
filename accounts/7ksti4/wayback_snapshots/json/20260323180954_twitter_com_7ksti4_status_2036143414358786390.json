@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2036143414358786390",
+    "created_at": "2026-03-23T18:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T19:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036143414358786390"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036143414358786390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在追求的安心的感觉到底在哪，每天很焦虑很害怕，就连在感情里也找不到安心感了，我好想快点痛苦的死掉，我一直连累身边的人，要是是从小就很幸福的健全逼就好了，老师说给自己贴标签就很容易让自己成为这种人，可我明明就很排斥说自己是个精神缺陷的神经病，为什么会这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2036143414358786390",
+        "created_at": "2026-03-23T18:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036143414358786390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036143414358786390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在追求的安心的感觉到底在哪，每天很焦虑很害怕，就连在感情里也找不到安心感了，我好想快点痛苦的死掉，我一直连累身边的人，要是是从小就很幸福的健全逼就好了，老师说给自己贴标签就很容易让自己成为这种人，可我明明就很排斥说自己是个精神缺陷的神经病，为什么会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是牙次/08高中生/喜欢青春期性朋克 青少年音乐。。。/查成分互fo",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029776581938561024/yuxJ26Ay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 251,
+          "like_count": 2655,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 83
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067562904271138915",
+    "created_at": "2026-06-18T13:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067603499844763829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1419384632810917888",
+          "start": 0,
+          "username": "PHeeead"
+        },
+        {
+          "end": 19,
+          "id": "1926506432276348928",
+          "start": 9,
+          "username": "linwei130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067603499844763829",
+    "in_reply_to_user_id": "1419384632810917888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067598795832250849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHeeead @linwei130 家里人这样因为我在福建吧、、、😣🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067562904271138915",
+        "created_at": "2026-06-18T13:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067603499844763829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1419384632810917888",
+              "start": 0,
+              "username": "PHeeead"
+            },
+            {
+              "end": 19,
+              "id": "1926506432276348928",
+              "start": 9,
+              "username": "linwei130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067603499844763829",
+        "in_reply_to_user_id": "1419384632810917888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067598795832250849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHeeead @linwei130 家里人这样因为我在福建吧、、、😣🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419384632810917888",
+        "conversation_id": "2067562904271138915",
+        "created_at": "2026-06-18T13:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067598795832250849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            },
+            {
+              "end": 18,
+              "id": "1926506432276348928",
+              "start": 8,
+              "username": "linwei130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067598795832250849",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067594076346806578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 @linwei130 感觉他们更需要看病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢青春期性朋克 青少年音乐 敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 321,
+          "like_count": 3585,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 150
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T19:51:08.000Z",
+        "description": "互fo OK/有空就会点赞评论但一发病就很爱删帖",
+        "id": "1419384632810917888",
+        "name": "𝑭𝑫",
+        "pinned_tweet_id": "2036148355575980365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044849182922706944/41ooDRo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 35,
+          "like_count": 2792,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 270
+        },
+        "username": "PHeeead",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:12:03.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖🍥｜小证2026.5.12｜已出柜 ｜ISFP-T｜碎碎念｜抑郁中｜同类互fo喵（没看到请在评论区说一下或者私信）｜老婆@Angel_SaveUsAll共号中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Angel_SaveUsAll"
+              }
+            ]
+          }
+        },
+        "id": "1926506432276348928",
+        "location": "距离你520m",
+        "name": "堇&小救「天使夺舍」",
+        "pinned_tweet_id": "2065462564105150741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046139436388524032/4kuTsCGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 651,
+          "like_count": 7189,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 992
+        },
+        "username": "linwei130",
+        "verified": true
+      }
+    ]
+  }
+}

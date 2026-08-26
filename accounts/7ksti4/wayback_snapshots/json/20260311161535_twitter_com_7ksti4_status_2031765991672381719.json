@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031765979924250624"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2031765991672381719",
+    "created_at": "2026-03-11T16:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031765991672381719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1976155423771418624",
+          "start": 0,
+          "username": "watarua73143"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iWdDEgpl3O",
+          "end": 37,
+          "expanded_url": "https://x.com/7ksti4/status/2031765991672381719/photo/1",
+          "media_key": "3_2031765979924250624",
+          "start": 14,
+          "url": "https://t.co/iWdDEgpl3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031765991672381719",
+    "in_reply_to_user_id": "1976155423771418624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@watarua73143 https://t.co/iWdDEgpl3O"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031765991672381719].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031765991672381719",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031765991672381719"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2031765979924250624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJIZNwbwAAOLPB.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "在我还是一个学生的时候我期待有一把大砍刀插进我的脑门",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029776581938561024/yuxJ26Ay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 241,
+          "like_count": 2400,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 71
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T05:24:06.000Z",
+        "description": "",
+        "id": "1976155423771418624",
+        "name": "不機嫌な平和人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982762080198426624/WNOgPtpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 73,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "watarua73143",
+        "verified": false
+      }
+    ]
+  }
+}

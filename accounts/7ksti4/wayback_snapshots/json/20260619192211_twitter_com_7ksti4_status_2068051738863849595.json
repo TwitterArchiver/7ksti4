@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068051254010658816",
+        "13_2068051254006484992"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2068051738863849595",
+    "created_at": "2026-06-19T19:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068051738863849595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OdnbiIdpjy",
+          "end": 65,
+          "expanded_url": "https://x.com/7ksti4/status/2068051738863849595/video/1",
+          "media_key": "13_2068051254010658816",
+          "start": 42,
+          "url": "https://t.co/OdnbiIdpjy"
+        },
+        {
+          "display_url": "pic.x.com/OdnbiIdpjy",
+          "end": 65,
+          "expanded_url": "https://x.com/7ksti4/status/2068051738863849595/video/1",
+          "media_key": "13_2068051254006484992",
+          "start": 42,
+          "url": "https://t.co/OdnbiIdpjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068051738863849595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怀念集训的日子，痛苦又快乐的时光，回到学校再也没有能和我一起在天台弹琴唱歌的朋友了 https://t.co/OdnbiIdpjy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81088,
+        "height": 720,
+        "media_key": "13_2068051254010658816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068051254010658816/img/2v-NY9Vr4wDYtbCA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068051254010658816/vid/avc1/480x270/ohJ0UlSqfbnjl-YV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068051254010658816/vid/avc1/640x360/s_HF_ltMvt35nJN9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068051254010658816/vid/avc1/1280x720/9sbZfCATuVKpyRFX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068051254010658816/pl/ATATAG9eBjHqR_eQ.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 7918,
+        "height": 720,
+        "media_key": "13_2068051254006484992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068051254006484992/img/CNV3wsUSmPxKK7MD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068051254006484992/vid/avc1/480x270/FjOMQGp41QEvMVC8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068051254006484992/vid/avc1/640x360/0bNreQ7NH5KlSCds.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068051254006484992/vid/avc1/1280x720/4tYGuY7W8B_mabex.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068051254006484992/pl/HEqVWWlvqEjwlvSb.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068051254010658816",
+            "13_2068051254006484992"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2068051738863849595",
+        "created_at": "2026-06-19T19:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068051738863849595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OdnbiIdpjy",
+              "end": 65,
+              "expanded_url": "https://x.com/7ksti4/status/2068051738863849595/video/1",
+              "media_key": "13_2068051254010658816",
+              "start": 42,
+              "url": "https://t.co/OdnbiIdpjy"
+            },
+            {
+              "display_url": "pic.x.com/OdnbiIdpjy",
+              "end": 65,
+              "expanded_url": "https://x.com/7ksti4/status/2068051738863849595/video/1",
+              "media_key": "13_2068051254006484992",
+              "start": 42,
+              "url": "https://t.co/OdnbiIdpjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068051738863849595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀念集训的日子，痛苦又快乐的时光，回到学校再也没有能和我一起在天台弹琴唱歌的朋友了 https://t.co/OdnbiIdpjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 387,
+          "like_count": 4143,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

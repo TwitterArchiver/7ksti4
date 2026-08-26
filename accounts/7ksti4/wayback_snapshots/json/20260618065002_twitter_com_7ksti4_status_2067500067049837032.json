@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067404606993502437",
+    "created_at": "2026-06-18T06:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067500067049837032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038644495533723648",
+          "start": 0,
+          "username": "staryhrzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067500067049837032",
+    "in_reply_to_user_id": "2038644495533723648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067404606993502437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@staryhrzzz 好漂亮好漂亮(o^^o)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067404597854105600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDlhzYacAAS-k1.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067404606993502437",
+        "created_at": "2026-06-18T06:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067500067049837032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038644495533723648",
+              "start": 0,
+              "username": "staryhrzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067500067049837032",
+        "in_reply_to_user_id": "2038644495533723648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067404606993502437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@staryhrzzz 好漂亮好漂亮(o^^o)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067404597854105600"
+          ]
+        },
+        "author_id": "2038644495533723648",
+        "conversation_id": "2067404606993502437",
+        "created_at": "2026-06-18T00:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067404606993502437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCxSWsgERV",
+              "end": 175,
+              "expanded_url": "https://x.com/staryhrzzz/status/2067404606993502437/photo/1",
+              "media_key": "3_2067404597854105600",
+              "start": 152,
+              "url": "https://t.co/VCxSWsgERV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067404606993502437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天吃了1200mg的pr看到天使了⋯欣快感大提升！跟媽媽說了好久的八卦一直都沒捨得睡覺 結果一閉眼就看到天使了 真的是白色的那種翅膀 非常大 大的誇張像雲一樣 但是其他什麼的忘記了 眼睛也好渙散的來參加畢業典禮了 就只睡了幾小時 喘不上氣w 劉海很乖o 雖然隨便化的妝好醜 但是還是用夾板夾了劉海:D https://t.co/VCxSWsgERV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢青春期性朋克 青少年音乐，躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 275,
+          "like_count": 3447,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 124
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T15:50:40.000Z",
+        "description": "我是kyo 會當日記來發 希望大家都獲得幸福！od｜宅家｜蕾系｜電波系｜infp\n戀人是教主大人💗\n素學家 and電波作愛好者 我吃信徒組",
+        "id": "2038644495533723648",
+        "name": "kyo",
+        "pinned_tweet_id": "2045425240092922059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038645383853666305/UGax8MKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 181,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 292
+        },
+        "username": "staryhrzzz",
+        "verified": false
+      }
+    ]
+  }
+}

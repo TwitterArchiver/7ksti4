@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "1927750316310626520",
+    "created_at": "2025-12-19T11:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T12:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001978503429021860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1245586764837695493",
+          "start": 0,
+          "username": "i0OJoOpG5NuTcjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001978503429021860",
+    "in_reply_to_user_id": "1245586764837695493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927750316310626520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i0OJoOpG5NuTcjG 国足好棒啊，好想去真正的看一次"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13029,
+        "height": 720,
+        "media_key": "7_1927750245171015681",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1927750245171015681/pu/img/Of-3REqbYAHusoxg.jpg",
+        "public_metrics": {
+          "view_count": 110
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927750245171015681/pu/vid/avc1/480x270/DOiNTgKsP9iGMqv-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927750245171015681/pu/vid/avc1/640x360/knRhdU5UlYgZyFGg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927750245171015681/pu/vid/avc1/1280x720/irCgIR5yLVNm8LKm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1927750245171015681/pu/pl/T834Kq8mY7GGu3Ub.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927750245154263041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsC-omIXkAEkg7W.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927750245171027968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsC-omMXYAAyOm1.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1927750245183594496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsC-omPXIAA08Ps.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "1927750316310626520",
+        "created_at": "2025-12-19T11:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001978503429021860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1245586764837695493",
+              "start": 0,
+              "username": "i0OJoOpG5NuTcjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001978503429021860",
+        "in_reply_to_user_id": "1245586764837695493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927750316310626520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i0OJoOpG5NuTcjG 国足好棒啊，好想去真正的看一次"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1927750245171015681",
+            "3_1927750245154263041",
+            "3_1927750245171027968",
+            "3_1927750245183594496"
+          ]
+        },
+        "author_id": "1245586764837695493",
+        "conversation_id": "1927750316310626520",
+        "created_at": "2025-05-28T15:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T16:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927750316310626520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0thQDQ4ES9",
+              "end": 75,
+              "expanded_url": "https://x.com/i0OJoOpG5NuTcjG/status/1927750316310626520/video/1",
+              "media_key": "7_1927750245171015681",
+              "start": 52,
+              "url": "https://t.co/0thQDQ4ES9"
+            },
+            {
+              "display_url": "pic.x.com/0thQDQ4ES9",
+              "end": 75,
+              "expanded_url": "https://x.com/i0OJoOpG5NuTcjG/status/1927750316310626520/video/1",
+              "media_key": "3_1927750245154263041",
+              "start": 52,
+              "url": "https://t.co/0thQDQ4ES9"
+            },
+            {
+              "display_url": "pic.x.com/0thQDQ4ES9",
+              "end": 75,
+              "expanded_url": "https://x.com/i0OJoOpG5NuTcjG/status/1927750316310626520/video/1",
+              "media_key": "3_1927750245171027968",
+              "start": 52,
+              "url": "https://t.co/0thQDQ4ES9"
+            },
+            {
+              "display_url": "pic.x.com/0thQDQ4ES9",
+              "end": 75,
+              "expanded_url": "https://x.com/i0OJoOpG5NuTcjG/status/1927750316310626520/video/1",
+              "media_key": "3_1927750245183594496",
+              "start": 52,
+              "url": "https://t.co/0thQDQ4ES9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927750316310626520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让时间留在昨天吧，不要再前进了，幸福可以再留久一点吗好痛苦，我应该死在live结束后回家的车祸中〒_〒 https://t.co/0thQDQ4ES9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是小牙齿/infj/绝望的滚妹   在我还是一个学生的时候我期待有一把大砍刀插进我的脑门",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854076522317144064/odwkYc51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 199,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 46
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-02T05:40:11.000Z",
+        "description": "ロックンロールは鳴り止まないっ！！！",
+        "id": "1245586764837695493",
+        "location": "鏡の世界",
+        "name": "柘榴sukisu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721174450366992384/MDgo_P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 325,
+          "like_count": 1645,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 578
+        },
+        "username": "i0OJoOpG5NuTcjG",
+        "verified": false
+      }
+    ]
+  }
+}

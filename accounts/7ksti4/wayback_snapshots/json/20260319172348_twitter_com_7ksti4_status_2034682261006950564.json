@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2034682261006950564",
+    "created_at": "2026-03-19T17:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T18:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034682261006950564"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034682261006950564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有追求什么反叛精神一样，我加了一个傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2034682261006950564",
+        "created_at": "2026-03-19T17:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034682261006950564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034682261006950564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有追求什么反叛精神一样，我加了一个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "在我还是一个学生的时候我期待有一把大砍刀插进我的脑门",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029776581938561024/yuxJ26Ay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 241,
+          "like_count": 2535,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 76
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

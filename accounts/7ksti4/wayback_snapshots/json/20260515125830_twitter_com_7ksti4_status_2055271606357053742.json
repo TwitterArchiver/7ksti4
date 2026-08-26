@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055271595606949888"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2055271606357053742",
+    "created_at": "2026-05-15T12:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055271606357053742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I8xVA2iZ1O",
+          "end": 23,
+          "expanded_url": "https://x.com/7ksti4/status/2055271606357053742/photo/1",
+          "media_key": "3_2055271595606949888",
+          "start": 0,
+          "url": "https://t.co/I8xVA2iZ1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055271606357053742",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/I8xVA2iZ1O"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055271606357053742].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055271606357053742",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055271606357053742"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2055271595606949888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXKoH0aQAAbRpk.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是牙次/08高中生/喜欢青春期性朋克 青少年音乐。。。/查成分互fo",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046271794450219009/9wGRpzB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 256,
+          "like_count": 3004,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 90
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

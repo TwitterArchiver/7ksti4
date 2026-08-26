@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067184229549854792",
+    "created_at": "2026-06-17T12:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067217973526642789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1884558427088969728",
+          "start": 0,
+          "username": "woyizhizaiku000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067217973526642789",
+    "in_reply_to_user_id": "1884558427088969728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067184229549854792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woyizhizaiku000 同学买了一包觉得不好抽送我了，感觉很普通的味道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2067184220435587072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAdGJhbIAAG20i.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067184229549854792",
+        "created_at": "2026-06-17T12:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067217973526642789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1884558427088969728",
+              "start": 0,
+              "username": "woyizhizaiku000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067217973526642789",
+        "in_reply_to_user_id": "1884558427088969728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067184229549854792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woyizhizaiku000 同学买了一包觉得不好抽送我了，感觉很普通的味道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067184220435587072"
+          ]
+        },
+        "author_id": "1884558427088969728",
+        "conversation_id": "2067184229549854792",
+        "created_at": "2026-06-17T09:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067184229549854792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/21ANcuS18T",
+              "end": 56,
+              "expanded_url": "https://x.com/woyizhizaiku000/status/2067184229549854792/photo/1",
+              "media_key": "3_2067184220435587072",
+              "start": 33,
+              "url": "https://t.co/21ANcuS18T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067184229549854792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在秘密花园绝望等待爱情中…btw我没见过这个啊，有推u抽过么？ https://t.co/21ANcuS18T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜喜欢青春期性朋克 青少年音乐，躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 231,
+          "like_count": 3190,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 108
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T11:05:32.000Z",
+        "description": "一个网民、一个小镇孩子、一个老实人、一个农民（专心经营唐式生活）不加v不聊s不线下，关注仅仅是因为喜欢你的推文，不用礼貌和我互fo. feel free to talk to me\n#Bisexual/ENFP悄悄话点击1️⃣⬇️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 91,
+                "tag": "Bisexual"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wybie21836",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wybie21836",
+                "start": 0,
+                "url": "https://t.co/XF0x0c8Y9c"
+              }
+            ]
+          }
+        },
+        "id": "1884558427088969728",
+        "location": "虹之间",
+        "name": "康思雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884558494319493120/wxQGqc3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 60,
+          "like_count": 1358,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/XF0x0c8Y9c",
+        "username": "woyizhizaiku000",
+        "verified": false
+      }
+    ]
+  }
+}

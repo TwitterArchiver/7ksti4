@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067203431673348419",
+    "created_at": "2026-06-17T11:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067203431673348419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870625910262484993",
+          "start": 3,
+          "username": "paleebunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067203431673348419",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066710279694561721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paleebunny: me           me    quiero morir\n  me       me      quiero    morir\n    me   me        quiero     morir\n       me…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067203431673348419",
+        "created_at": "2026-06-17T11:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067203431673348419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870625910262484993",
+              "start": 3,
+              "username": "paleebunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067203431673348419",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066710279694561721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paleebunny: me           me    quiero morir\n  me       me      quiero    morir\n    me   me        quiero     morir\n       me…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870625910262484993",
+        "conversation_id": "2066710279694561721",
+        "created_at": "2026-06-16T02:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066710279694561721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066710279694561721",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 65733,
+          "like_count": 6741,
+          "quote_count": 12,
+          "reply_count": 33,
+          "retweet_count": 2163
+        },
+        "reply_settings": "everyone",
+        "text": "me           me    quiero morir\n  me       me      quiero    morir\n    me   me        quiero     morir\n       me             quiero     morir\n    me   me        quiero     morir\n  me       me      quiero    morir\nme           me    quiero morir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是牙次/08高中生/喜欢青春期性朋克 青少年音乐，躁动的青春期我好想拿起大砍刀杀人/查成分互fo",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 229,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 103
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T00:22:33.000Z",
+        "description": "⠀⠀ ˙ ♡‧₊˚ɕupckakꫀ princꫀss 🐰🎀🍭",
+        "id": "1870625910262484993",
+        "name": "pia :3",
+        "pinned_tweet_id": "2056051234310607085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067078441917100032/LXmTSiNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2698,
+          "following_count": 668,
+          "like_count": 4505,
+          "listed_count": 8,
+          "media_count": 71,
+          "tweet_count": 265
+        },
+        "username": "paleebunny",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "1984892291295916350",
+    "created_at": "2025-11-02T07:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984892291295916350"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984892291295916350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每天都在听脏手指武工队这流氓乐队"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "1984892291295916350",
+        "created_at": "2025-11-02T07:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984892291295916350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984892291295916350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都在听脏手指武工队这流氓乐队"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "可汗/infj/绝望的滚妹",
+        "id": "1774278217253433344",
+        "name": "红发少年强奸事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854076522317144064/odwkYc51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 179,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 33
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

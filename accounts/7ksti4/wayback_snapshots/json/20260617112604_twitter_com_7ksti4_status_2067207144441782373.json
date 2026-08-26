@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067207088917590017",
+        "3_2067207088921829376",
+        "3_2067207088938627072",
+        "3_2067207088934391808"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067207144441782373",
+    "created_at": "2026-06-17T11:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067207144441782373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E1awGkDNqb",
+          "end": 96,
+          "expanded_url": "https://x.com/7ksti4/status/2067207144441782373/photo/1",
+          "media_key": "3_2067207088917590017",
+          "start": 73,
+          "url": "https://t.co/E1awGkDNqb"
+        },
+        {
+          "display_url": "pic.x.com/E1awGkDNqb",
+          "end": 96,
+          "expanded_url": "https://x.com/7ksti4/status/2067207144441782373/photo/1",
+          "media_key": "3_2067207088921829376",
+          "start": 73,
+          "url": "https://t.co/E1awGkDNqb"
+        },
+        {
+          "display_url": "pic.x.com/E1awGkDNqb",
+          "end": 96,
+          "expanded_url": "https://x.com/7ksti4/status/2067207144441782373/photo/1",
+          "media_key": "3_2067207088938627072",
+          "start": 73,
+          "url": "https://t.co/E1awGkDNqb"
+        },
+        {
+          "display_url": "pic.x.com/E1awGkDNqb",
+          "end": 96,
+          "expanded_url": "https://x.com/7ksti4/status/2067207144441782373/photo/1",
+          "media_key": "3_2067207088934391808",
+          "start": 73,
+          "url": "https://t.co/E1awGkDNqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067207144441782373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "方便查成分用：\n我是凡凡/亚次/上单\n我喜欢躁动的青春期音乐\n欢迎找我玩，可以一起听歌\n互fo欢迎o^^o\n\n南方线下可以一起看，有时候会带物料 https://t.co/E1awGkDNqb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067207144441782373].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067207144441782373",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067207144441782373"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067207088917590017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAx5RQaMAEy0vM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067207088921829376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAx5RRa4AAbyvt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067207088938627072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAx5RVbMAAsJRd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067207088934391808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAx5RUakAAQAcY.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是牙次/08高中生/喜欢青春期性朋克 青少年音乐，躁动的青春期我好想拿起大砍刀杀人/查成分互fo",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 230,
+          "like_count": 3167,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 104
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

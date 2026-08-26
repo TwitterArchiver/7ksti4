@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2072640064681832588",
+    "created_at": "2026-07-02T15:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072703160763011301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942973643962634240",
+          "start": 0,
+          "username": "whywhymemee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072703160763011301",
+    "in_reply_to_user_id": "1942973643962634240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072672597394039119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whywhymemee 不胖骨架大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2072640064681832588",
+        "created_at": "2026-07-02T15:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072703160763011301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942973643962634240",
+              "start": 0,
+              "username": "whywhymemee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072703160763011301",
+        "in_reply_to_user_id": "1942973643962634240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072672597394039119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whywhymemee 不胖骨架大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942973643962634240",
+        "conversation_id": "2072640064681832588",
+        "created_at": "2026-07-02T13:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072672597394039119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072672597394039119",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072657577595506989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 骨架大不大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 464,
+          "like_count": 5377,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T15:46:39.000Z",
+        "description": "",
+        "id": "1942973643962634240",
+        "name": "（：sorryimbat",
+        "pinned_tweet_id": "2016983691499884835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070534337909669888/andVJjiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 92,
+          "like_count": 1846,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "whywhymemee",
+        "verified": false
+      }
+    ]
+  }
+}

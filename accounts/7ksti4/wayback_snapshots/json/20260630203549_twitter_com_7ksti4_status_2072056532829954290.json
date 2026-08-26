@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072056247659196416"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2072056532829954290",
+    "created_at": "2026-06-30T20:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T21:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072056532829954290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gZNhObBW4L",
+          "end": 150,
+          "expanded_url": "https://x.com/7ksti4/status/2072056532829954290/video/1",
+          "media_key": "13_2072056247659196416",
+          "start": 127,
+          "url": "https://t.co/gZNhObBW4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072056532829954290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还记得第一次和你说话，你就害羞的冒冷汗说话还结巴，脸红彤彤的说着我很酷想和我玩，但是我只是个懦夫，我好后悔，如果我那时候能把欺负你的人揍一顿就好了，我这个傻逼为什么要大冷天带你去天台弹琴！啊！我应该抱着你说没关系的才对，我好想哭，为什么我会把你忘记了 https://t.co/gZNhObBW4L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82978,
+        "height": 1280,
+        "media_key": "13_2072056247659196416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072056247659196416/img/zlIaZ2Ddw00aE2ht.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072056247659196416/vid/avc1/320x568/55YTGt3jKipBAkxC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072056247659196416/vid/avc1/480x852/eEkczCMAISG1g2ES.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072056247659196416/vid/avc1/720x1280/ZbaxWgO9zfYmz_Jm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072056247659196416/pl/MtHk9cQXor508qqm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072056247659196416"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2072056532829954290",
+        "created_at": "2026-06-30T20:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072056532829954290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZNhObBW4L",
+              "end": 150,
+              "expanded_url": "https://x.com/7ksti4/status/2072056532829954290/video/1",
+              "media_key": "13_2072056247659196416",
+              "start": 127,
+              "url": "https://t.co/gZNhObBW4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072056532829954290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还记得第一次和你说话，你就害羞的冒冷汗说话还结巴，脸红彤彤的说着我很酷想和我玩，但是我只是个懦夫，我好后悔，如果我那时候能把欺负你的人揍一顿就好了，我这个傻逼为什么要大冷天带你去天台弹琴！啊！我应该抱着你说没关系的才对，我好想哭，为什么我会把你忘记了 https://t.co/gZNhObBW4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 459,
+          "like_count": 5206,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

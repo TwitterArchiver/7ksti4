@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068021760474370048"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1420102207756591107",
+          "name": "Fishmans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1420102207756591107",
+          "name": "Fishmans"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1420102207756591107",
+          "name": "Fishmans"
+        }
+      }
+    ],
+    "conversation_id": "2068021767055225093",
+    "created_at": "2026-06-19T17:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068021767055225093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "163cn.tv/9meEIdO",
+          "end": 63,
+          "expanded_url": "https://163cn.tv/9meEIdO",
+          "start": 40,
+          "url": "https://t.co/QM1yyjGEAB"
+        },
+        {
+          "display_url": "pic.x.com/NfEsXOkYBU",
+          "end": 87,
+          "expanded_url": "https://x.com/7ksti4/status/2068021767055225093/photo/1",
+          "media_key": "3_2068021760474370048",
+          "start": 64,
+          "url": "https://t.co/NfEsXOkYBU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068021767055225093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分享Fishmans的单曲《WEATHER REPORT》  (@网易云音乐) https://t.co/QM1yyjGEAB https://t.co/NfEsXOkYBU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 135,
+        "media_key": "3_2068021760474370048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMW1ZTaUAARcaC.jpg",
+        "width": 135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068021760474370048"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1420102207756591107",
+              "name": "Fishmans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1420102207756591107",
+              "name": "Fishmans"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1420102207756591107",
+              "name": "Fishmans"
+            }
+          }
+        ],
+        "conversation_id": "2068021767055225093",
+        "created_at": "2026-06-19T17:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068021767055225093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "163cn.tv/9meEIdO",
+              "end": 63,
+              "expanded_url": "https://163cn.tv/9meEIdO",
+              "start": 40,
+              "url": "https://t.co/QM1yyjGEAB"
+            },
+            {
+              "display_url": "pic.x.com/NfEsXOkYBU",
+              "end": 87,
+              "expanded_url": "https://x.com/7ksti4/status/2068021767055225093/photo/1",
+              "media_key": "3_2068021760474370048",
+              "start": 64,
+              "url": "https://t.co/NfEsXOkYBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068021767055225093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享Fishmans的单曲《WEATHER REPORT》  (@网易云音乐) https://t.co/QM1yyjGEAB https://t.co/NfEsXOkYBU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 382,
+          "like_count": 4023,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

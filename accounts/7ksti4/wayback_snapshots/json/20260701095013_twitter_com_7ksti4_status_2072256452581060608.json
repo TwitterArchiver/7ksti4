@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2072244676925718972",
+    "created_at": "2026-07-01T09:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072256452581060608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2071284209864556544",
+          "start": 0,
+          "username": "FudoAlaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072256452581060608",
+    "in_reply_to_user_id": "2071284209864556544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072249934724919564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FudoAlaya 孩子你是不是想开美美桑内"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2072244676925718972",
+        "created_at": "2026-07-01T09:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072256452581060608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2071284209864556544",
+              "start": 0,
+              "username": "FudoAlaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072256452581060608",
+        "in_reply_to_user_id": "2071284209864556544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072249934724919564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FudoAlaya 孩子你是不是想开美美桑内"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071284209864556544",
+        "conversation_id": "2072244676925718972",
+        "created_at": "2026-07-01T09:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072249934724919564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072249934724919564",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072244676925718972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 老师我咳嗽停不下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 463,
+          "like_count": 5274,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T17:27:26.000Z",
+        "description": "这里阿拉雅，顺性别男｜这个入太容易感到孤独了…｜天文爱好者｜生物学｜喜欢玩视觉小说｜没有OD了大概｜想要认识更多朋友www",
+        "id": "2071284209864556544",
+        "name": "FudoAlaya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071284624760930304/qavF5ncE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 82,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "FudoAlaya",
+        "verified": false
+      }
+    ]
+  }
+}

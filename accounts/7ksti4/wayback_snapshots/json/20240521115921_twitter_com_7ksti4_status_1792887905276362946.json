@@ -1,0 +1,105 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792887890181279744",
+        "3_1792887890177064960"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "1792887905276362946",
+    "created_at": "2024-05-21T11:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T12:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792887905276362946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/uRAJc840w4",
+          "end": 43,
+          "expanded_url": "https://twitter.com/7ksti4/status/1792887905276362946/photo/1",
+          "media_key": "3_1792887890181279744",
+          "start": 20,
+          "url": "https://t.co/uRAJc840w4"
+        },
+        {
+          "display_url": "pic.twitter.com/uRAJc840w4",
+          "end": 43,
+          "expanded_url": "https://twitter.com/7ksti4/status/1792887905276362946/photo/1",
+          "media_key": "3_1792887890177064960",
+          "start": 20,
+          "url": "https://t.co/uRAJc840w4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792887905276362946",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "张海明，唉，第一次去脏手指现场，好开心 https://t.co/uRAJc840w4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1792887905276362946].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1792887905276362946",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1792887905276362946"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1792887890181279744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOGeCXha0AAjt1V.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1792887890177064960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOGeCXgagAAj9KQ.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "mc小逗比喜欢请扣666",
+        "id": "1774278217253433344",
+        "name": "7k7k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774292686952071168/t5WzUlp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 119,
+          "like_count": 201,
+          "listed_count": 0,
+          "tweet_count": 42
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2073369972508901860",
+    "created_at": "2026-07-04T20:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073497799044571370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2866910313",
+          "start": 0,
+          "username": "CS_Seb54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073497799044571370",
+    "in_reply_to_user_id": "2866910313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073395741997883795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CS_Seb54 谢谢你！😭😭😭😭😭美足真的太好了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2073369972508901860",
+        "created_at": "2026-07-04T20:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073497799044571370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2866910313",
+              "start": 0,
+              "username": "CS_Seb54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073497799044571370",
+        "in_reply_to_user_id": "2866910313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073395741997883795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CS_Seb54 谢谢你！😭😭😭😭😭美足真的太好了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2866910313",
+        "conversation_id": "2073369972508901860",
+        "created_at": "2026-07-04T13:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073395741997883795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073395741997883795",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073369972508901860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 我超爱那张专辑！《Never Meant》绝对是我有史以来最喜欢的歌之一。\n\n你的音乐品味真不错！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 474,
+          "like_count": 5604,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T06:21:21.000Z",
+        "description": "Filmmaker and journalist.",
+        "id": "2866910313",
+        "name": "Mr.Seb",
+        "pinned_tweet_id": "1751650214320959571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727707737759375360/SrBcjHav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 3012,
+          "like_count": 232974,
+          "listed_count": 8,
+          "media_count": 2861,
+          "tweet_count": 39862
+        },
+        "url": "",
+        "username": "CS_Seb54",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072057334898282496",
+        "3_2072057334860521472",
+        "3_2072057334860492800",
+        "3_2072057334873169920"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2072057359439130648",
+    "created_at": "2026-06-30T20:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T21:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072057359439130648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pAVNXb4eVS",
+          "end": 44,
+          "expanded_url": "https://x.com/7ksti4/status/2072057359439130648/photo/1",
+          "media_key": "3_2072057334898282496",
+          "start": 21,
+          "url": "https://t.co/pAVNXb4eVS"
+        },
+        {
+          "display_url": "pic.x.com/pAVNXb4eVS",
+          "end": 44,
+          "expanded_url": "https://x.com/7ksti4/status/2072057359439130648/photo/1",
+          "media_key": "3_2072057334860521472",
+          "start": 21,
+          "url": "https://t.co/pAVNXb4eVS"
+        },
+        {
+          "display_url": "pic.x.com/pAVNXb4eVS",
+          "end": 44,
+          "expanded_url": "https://x.com/7ksti4/status/2072057359439130648/photo/1",
+          "media_key": "3_2072057334860492800",
+          "start": 21,
+          "url": "https://t.co/pAVNXb4eVS"
+        },
+        {
+          "display_url": "pic.x.com/pAVNXb4eVS",
+          "end": 44,
+          "expanded_url": "https://x.com/7ksti4/status/2072057359439130648/photo/1",
+          "media_key": "3_2072057334873169920",
+          "start": 21,
+          "url": "https://t.co/pAVNXb4eVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072057359439130648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恨他妈的三坊七巷，我现在好想一个女孩， https://t.co/pAVNXb4eVS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072057334898282496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFtKvja0AAxifB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072057334860521472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFtKvaaoAAb5WZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072057334860492800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFtKvaaMAAPyWp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072057334873169920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFtKvdboAAJXdq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072057334898282496",
+            "3_2072057334860521472",
+            "3_2072057334860492800",
+            "3_2072057334873169920"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2072057359439130648",
+        "created_at": "2026-06-30T20:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072057359439130648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pAVNXb4eVS",
+              "end": 44,
+              "expanded_url": "https://x.com/7ksti4/status/2072057359439130648/photo/1",
+              "media_key": "3_2072057334898282496",
+              "start": 21,
+              "url": "https://t.co/pAVNXb4eVS"
+            },
+            {
+              "display_url": "pic.x.com/pAVNXb4eVS",
+              "end": 44,
+              "expanded_url": "https://x.com/7ksti4/status/2072057359439130648/photo/1",
+              "media_key": "3_2072057334860521472",
+              "start": 21,
+              "url": "https://t.co/pAVNXb4eVS"
+            },
+            {
+              "display_url": "pic.x.com/pAVNXb4eVS",
+              "end": 44,
+              "expanded_url": "https://x.com/7ksti4/status/2072057359439130648/photo/1",
+              "media_key": "3_2072057334860492800",
+              "start": 21,
+              "url": "https://t.co/pAVNXb4eVS"
+            },
+            {
+              "display_url": "pic.x.com/pAVNXb4eVS",
+              "end": 44,
+              "expanded_url": "https://x.com/7ksti4/status/2072057359439130648/photo/1",
+              "media_key": "3_2072057334873169920",
+              "start": 21,
+              "url": "https://t.co/pAVNXb4eVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072057359439130648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨他妈的三坊七巷，我现在好想一个女孩， https://t.co/pAVNXb4eVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 459,
+          "like_count": 5206,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

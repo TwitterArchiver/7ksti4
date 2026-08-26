@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067414112699605152",
+    "created_at": "2026-06-18T10:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067559691803390341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064505177424515072",
+          "start": 0,
+          "username": "tingtongluoying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067559691803390341",
+    "in_reply_to_user_id": "2064505177424515072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067414112699605152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingtongluoying 安卓平板一个两千多也很不错？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067414080374112256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDuJwhXAAAmNRD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067414080458018819",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDuJw1XUAMBziG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067414080151797761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDuJvsWwAEEQv8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067414112699605152",
+        "created_at": "2026-06-18T10:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067559691803390341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064505177424515072",
+              "start": 0,
+              "username": "tingtongluoying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067559691803390341",
+        "in_reply_to_user_id": "2064505177424515072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067414112699605152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingtongluoying 安卓平板一个两千多也很不错？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067414080374112256",
+            "3_2067414080458018819",
+            "3_2067414080151797761"
+          ]
+        },
+        "author_id": "2064505177424515072",
+        "conversation_id": "2067414112699605152",
+        "created_at": "2026-06-18T01:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067414112699605152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VBZ4fXxbfl",
+              "end": 49,
+              "expanded_url": "https://x.com/tingtongluoying/status/2067414112699605152/photo/1",
+              "media_key": "3_2067414080374112256",
+              "start": 26,
+              "url": "https://t.co/VBZ4fXxbfl"
+            },
+            {
+              "display_url": "pic.x.com/VBZ4fXxbfl",
+              "end": 49,
+              "expanded_url": "https://x.com/tingtongluoying/status/2067414112699605152/photo/1",
+              "media_key": "3_2067414080458018819",
+              "start": 26,
+              "url": "https://t.co/VBZ4fXxbfl"
+            },
+            {
+              "display_url": "pic.x.com/VBZ4fXxbfl",
+              "end": 49,
+              "expanded_url": "https://x.com/tingtongluoying/status/2067414112699605152/photo/1",
+              "media_key": "3_2067414080151797761",
+              "start": 26,
+              "url": "https://t.co/VBZ4fXxbfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067414112699605152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我拿姐姐的平板画的，我什么时候也能拥有一个平板 https://t.co/VBZ4fXxbfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢青春期性朋克 青少年音乐 敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 302,
+          "like_count": 3524,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 138
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T00:30:58.000Z",
+        "description": "平平无奇的死宅",
+        "id": "2064505177424515072",
+        "name": "亭桐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064569439278755840/G4Y3XA1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "username": "tingtongluoying",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "1998697333803135480",
+    "created_at": "2025-12-10T10:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T11:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998697333803135480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863473278247141376",
+          "start": 3,
+          "username": "qaq5777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998697333803135480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998415935527592052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qaq5777: 到底是谁发明出哥哥这么骚的称呼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "1998697333803135480",
+        "created_at": "2025-12-10T10:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998697333803135480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863473278247141376",
+              "start": 3,
+              "username": "qaq5777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998697333803135480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998415935527592052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qaq5777: 到底是谁发明出哥哥这么骚的称呼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "1998415935527592052",
+        "created_at": "2025-12-09T15:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998415935527592052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998415935527592052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13207,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁发明出哥哥这么骚的称呼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "可汗/infj/绝望的滚妹",
+        "id": "1774278217253433344",
+        "name": "红发少年强奸事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854076522317144064/odwkYc51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 188,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 42
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "想发什么发什么 防走丢小号@neverovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "neverovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kbg.mi.le.mileoffice.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://kbg.mi.le.mileoffice.com/index.php#/register?code=0xQPXqQf",
+                "start": 0,
+                "url": "https://t.co/clDC5C127S"
+              }
+            ]
+          }
+        },
+        "id": "1863473278247141376",
+        "location": "🚪188/520 置顶关评推广自辨 🪜👇🏻",
+        "name": "不加冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895054154084564992/SkRpTx_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38099,
+          "following_count": 279,
+          "like_count": 12000,
+          "listed_count": 79,
+          "media_count": 175,
+          "tweet_count": 5117
+        },
+        "url": "https://t.co/clDC5C127S",
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073018476588040192",
+        "3_2073018476588101632",
+        "3_2073018476592267265"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073018523828572323",
+    "created_at": "2026-07-03T12:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073018523828572323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MaSU7h4C9u",
+          "end": 92,
+          "expanded_url": "https://x.com/7ksti4/status/2073018523828572323/photo/1",
+          "media_key": "3_2073018476588040192",
+          "start": 69,
+          "url": "https://t.co/MaSU7h4C9u"
+        },
+        {
+          "display_url": "pic.x.com/MaSU7h4C9u",
+          "end": 92,
+          "expanded_url": "https://x.com/7ksti4/status/2073018523828572323/photo/1",
+          "media_key": "3_2073018476588101632",
+          "start": 69,
+          "url": "https://t.co/MaSU7h4C9u"
+        },
+        {
+          "display_url": "pic.x.com/MaSU7h4C9u",
+          "end": 92,
+          "expanded_url": "https://x.com/7ksti4/status/2073018523828572323/photo/1",
+          "media_key": "3_2073018476592267265",
+          "start": 69,
+          "url": "https://t.co/MaSU7h4C9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073018523828572323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "长大了居然在做这种周边，我之前是个很反滚筒的人呢hhh、、、做着想送给喜欢的朋友😌😌，如果在长春可以找我领取，我是一个金色头发的短发女孩 https://t.co/MaSU7h4C9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073018476588040192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTXUjXaAAAdKPo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073018476588101632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTXUjXa8AA8a9u.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073018476592267265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTXUjYagAE3ZBE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073018476588040192",
+            "3_2073018476588101632",
+            "3_2073018476592267265"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073018523828572323",
+        "created_at": "2026-07-03T12:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073018523828572323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MaSU7h4C9u",
+              "end": 92,
+              "expanded_url": "https://x.com/7ksti4/status/2073018523828572323/photo/1",
+              "media_key": "3_2073018476588040192",
+              "start": 69,
+              "url": "https://t.co/MaSU7h4C9u"
+            },
+            {
+              "display_url": "pic.x.com/MaSU7h4C9u",
+              "end": 92,
+              "expanded_url": "https://x.com/7ksti4/status/2073018523828572323/photo/1",
+              "media_key": "3_2073018476588101632",
+              "start": 69,
+              "url": "https://t.co/MaSU7h4C9u"
+            },
+            {
+              "display_url": "pic.x.com/MaSU7h4C9u",
+              "end": 92,
+              "expanded_url": "https://x.com/7ksti4/status/2073018523828572323/photo/1",
+              "media_key": "3_2073018476592267265",
+              "start": 69,
+              "url": "https://t.co/MaSU7h4C9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073018523828572323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长大了居然在做这种周边，我之前是个很反滚筒的人呢hhh、、、做着想送给喜欢的朋友😌😌，如果在长春可以找我领取，我是一个金色头发的短发女孩 https://t.co/MaSU7h4C9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 470,
+          "like_count": 5482,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 493
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "1793712822410780784",
+    "created_at": "2024-05-23T18:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T19:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1793712822410780784"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1793712822410780784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "崩溃死了，为什么所有人都这么对我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "1793712822410780784",
+        "created_at": "2024-05-23T18:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T19:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793712822410780784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793712822410780784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崩溃死了，为什么所有人都这么对我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "mc小逗比喜欢请扣666",
+        "id": "1774278217253433344",
+        "name": "7k7k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774292686952071168/t5WzUlp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 123,
+          "like_count": 203,
+          "listed_count": 0,
+          "tweet_count": 45
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

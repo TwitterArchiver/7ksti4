@@ -1,0 +1,20 @@
+{
+  "name": "红发少年口口事件",
+  "username": "@7ksti4",
+  "bio": "=一凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击\n2.0版本：@4ksti7",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 53,
+        "start": 46,
+        "username": "4ksti7"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg"
+}

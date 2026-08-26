@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2066923021693006311",
+    "created_at": "2026-06-17T17:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067302642125349338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066617972844863488",
+          "start": 0,
+          "username": "Senasisperoverd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067302642125349338",
+    "in_reply_to_user_id": "2066617972844863488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066923021693006311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Senasisperoverd 摸摸🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2066923021693006311",
+        "created_at": "2026-06-17T17:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067302642125349338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066617972844863488",
+              "start": 0,
+              "username": "Senasisperoverd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067302642125349338",
+        "in_reply_to_user_id": "2066617972844863488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066923021693006311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Senasisperoverd 摸摸🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066617972844863488",
+        "conversation_id": "2066923021693006311",
+        "created_at": "2026-06-16T16:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066923021693006311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066923021693006311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在学校里融入不了同学，互联网上也因为没办法休学格格不入\n为什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜喜欢青春期性朋克 青少年音乐，躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 245,
+          "like_count": 3308,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 118
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T20:26:48.000Z",
+        "description": "=404\n餐券女\n消えたい",
+        "id": "2066617972844863488",
+        "name": "巴比塔云端",
+        "pinned_tweet_id": "2067157571254079694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066619547709566976/JFaKHhQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 72,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 54
+        },
+        "username": "Senasisperoverd",
+        "verified": false
+      }
+    ]
+  }
+}

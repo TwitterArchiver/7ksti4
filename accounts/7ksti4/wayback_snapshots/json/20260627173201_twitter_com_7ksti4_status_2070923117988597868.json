@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2070904992978936271",
+    "created_at": "2026-06-27T17:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070923117988597868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        },
+        {
+          "end": 28,
+          "id": "1996061460984987650",
+          "start": 16,
+          "username": "bai_ge21306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070923117988597868",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070909833310838966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo @bai_ge21306 这段文字为什么看起来就很萌！🙀🙀🙀🙀🙀🙀🙀🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2070904992978936271",
+        "created_at": "2026-06-27T17:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070923117988597868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            },
+            {
+              "end": 28,
+              "id": "1996061460984987650",
+              "start": 16,
+              "username": "bai_ge21306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070923117988597868",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070909833310838966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo @bai_ge21306 这段文字为什么看起来就很萌！🙀🙀🙀🙀🙀🙀🙀🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755664020944941056",
+        "conversation_id": "2070904992978936271",
+        "created_at": "2026-06-27T16:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070909833310838966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996061460984987650",
+              "start": 0,
+              "username": "bai_ge21306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070909833310838966",
+        "in_reply_to_user_id": "1996061460984987650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070904992978936271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_ge21306 哦哦哦哦小猫咪踩奶啊啊啊啊啊。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 446,
+          "like_count": 4884,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。我会查成分回关。\n只是一个互联网神人而已，你拉黑我的话我就死了。\n\n我最重要最爱的女孩@6De_dian 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2067641877361541426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070782217593470976/S5lpuKhn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 471,
+          "like_count": 2545,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T03:38:45.000Z",
+        "description": "1i/4i 贝斯手 阴湿长发小众亚比地雷男\n👿👿👿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lemon23672",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lemon23672",
+                "start": 0,
+                "url": "https://t.co/e1Qn7kfnG7"
+              }
+            ]
+          }
+        },
+        "id": "1996061460984987650",
+        "location": "南极洲",
+        "name": "🍋",
+        "pinned_tweet_id": "2066277645621334085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034812591990870016/Ed8qZVYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 329,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/e1Qn7kfnG7",
+        "username": "bai_ge21306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2029526786246324241",
+    "created_at": "2026-03-06T17:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029965990776426582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1455934423614963716",
+          "start": 0,
+          "username": "jack26116326"
+        },
+        {
+          "end": 27,
+          "id": "1976155423771418624",
+          "start": 14,
+          "username": "watarua73143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029965990776426582",
+    "in_reply_to_user_id": "1455934423614963716",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029526786246324241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack26116326 @watarua73143"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2029526786246324241",
+        "created_at": "2026-03-06T17:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029965990776426582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1455934423614963716",
+              "start": 0,
+              "username": "jack26116326"
+            },
+            {
+              "end": 27,
+              "id": "1976155423771418624",
+              "start": 14,
+              "username": "watarua73143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029965990776426582",
+        "in_reply_to_user_id": "1455934423614963716",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029526786246324241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack26116326 @watarua73143"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455934423614963716",
+        "conversation_id": "2029526786246324241",
+        "created_at": "2026-03-05T11:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029526786246324241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029526786246324241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 106689,
+          "like_count": 1213,
+          "quote_count": 53,
+          "reply_count": 65,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "世界上怎么没有可以卖萌可以犯贱还能调情的关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "在我还是一个学生的时候我期待有一把大砍刀插进我的脑门",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029776581938561024/yuxJ26Ay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 240,
+          "like_count": 2288,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 61
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:26:38.000Z",
+        "description": "瓦历史神一接中三下三代打接陪玩其他游戏看情况接 点单私我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xkkk16579",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xkkk16579",
+                "start": 0,
+                "url": "https://t.co/Ym5WMKEryV"
+              }
+            ]
+          }
+        },
+        "id": "1455934423614963716",
+        "location": "🚪18",
+        "name": "xkkk",
+        "pinned_tweet_id": "2029023321304830248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024114539537760256/mdQyfzCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 50,
+          "like_count": 1153,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/Ym5WMKEryV",
+        "username": "jack26116326",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T05:24:06.000Z",
+        "description": "",
+        "id": "1976155423771418624",
+        "name": "不機嫌な平和人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982762080198426624/WNOgPtpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 73,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "watarua73143",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067561354760962358",
+    "created_at": "2026-06-18T14:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067612763095175597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032112283103739907",
+          "start": 0,
+          "username": "Cubic929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067612763095175597",
+    "in_reply_to_user_id": "2032112283103739907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067561354760962358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cubic929 厦门的海很棒(^^)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2067561350092709888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF0F--aYAA4Gn6.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067561354760962358",
+        "created_at": "2026-06-18T14:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067612763095175597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032112283103739907",
+              "start": 0,
+              "username": "Cubic929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067612763095175597",
+        "in_reply_to_user_id": "2032112283103739907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067561354760962358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cubic929 厦门的海很棒(^^)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067561350092709888"
+          ]
+        },
+        "author_id": "2032112283103739907",
+        "conversation_id": "2067561354760962358",
+        "created_at": "2026-06-18T10:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067561354760962358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国三十四省级行政区域制霸标记生成工具",
+              "display_url": "lab.magiconch.com/china-ex/",
+              "end": 47,
+              "expanded_url": "http://lab.magiconch.com/china-ex/",
+              "start": 24,
+              "status": 200,
+              "title": "中国制霸生成器 - 中国三十四省级行政区域制霸标记生成工具",
+              "unwound_url": "https://lab.magiconch.com/china-ex/",
+              "url": "https://t.co/gGdnOyenx9"
+            },
+            {
+              "display_url": "pic.x.com/uSIY1wjze2",
+              "end": 71,
+              "expanded_url": "https://x.com/Cubic929/status/2067561354760962358/photo/1",
+              "media_key": "3_2067561350092709888",
+              "start": 48,
+              "url": "https://t.co/uSIY1wjze2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067561354760962358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，一直想去南京成都重庆南宁厦门新疆来着。。。\nhttps://t.co/gGdnOyenx9 https://t.co/uSIY1wjze2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢青春期性朋克 青少年音乐 敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 322,
+          "like_count": 3594,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T15:12:03.000Z",
+        "description": "@Square527某平方的弹射座椅/\n23届北语国政/enby→mtf(?)🏳️‍⚧️/ADHD/爱人@dissolvingspace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Square527"
+              },
+              {
+                "end": 68,
+                "start": 52,
+                "username": "dissolvingspace"
+              }
+            ]
+          }
+        },
+        "id": "2032112283103739907",
+        "location": "天津市",
+        "name": "某立方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066367603938095104/jeeEyO3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 174,
+          "like_count": 10893,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "Cubic929",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067867018389508345",
+    "created_at": "2026-06-19T08:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067882530976813322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939189357966958592",
+          "start": 0,
+          "username": "Yeeiaan_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067882530976813322",
+    "in_reply_to_user_id": "1939189357966958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067872494846152723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeeiaan_n 好！！！不和没有礼貌的人一般计较，🥺🥺凡凡在背后偷偷诅咒这些人 (￣ 3￣) 、、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067867018389508345",
+        "created_at": "2026-06-19T08:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067882530976813322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939189357966958592",
+              "start": 0,
+              "username": "Yeeiaan_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067882530976813322",
+        "in_reply_to_user_id": "1939189357966958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067872494846152723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeeiaan_n 好！！！不和没有礼貌的人一般计较，🥺🥺凡凡在背后偷偷诅咒这些人 (￣ 3￣) 、、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939189357966958592",
+        "conversation_id": "2067867018389508345",
+        "created_at": "2026-06-19T07:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067872494846152723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067872494846152723",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067867018389508345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 宝宝不要自卑捏！凡凡就是很可爱呀，我身边也有小女孩跟你一样呢，他们取笑你是他们不懂得尊重人没有礼貌！(ー`´ー)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️\n重要的人：@watarua73143",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 80,
+                "username": "watarua73143"
+              }
+            ]
+          }
+        },
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 353,
+          "like_count": 3869,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T05:09:15.000Z",
+        "description": "就这样盯着你(｡ì _ í｡)\n天蝎｜不经常登｜厚肌，薄肌全肯定！｜我喜欢碎碎念｜匿名箱欢迎提问呀！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yye15005",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yye15005",
+                "start": 0,
+                "url": "https://t.co/hKHcCjnUY6"
+              }
+            ]
+          }
+        },
+        "id": "1939189357966958592",
+        "name": "氧化钙",
+        "pinned_tweet_id": "2062843529450361224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053046974618951680/dq5X4ugS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 30,
+          "like_count": 3677,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/hKHcCjnUY6",
+        "username": "Yeeiaan_n",
+        "verified": false
+      }
+    ]
+  }
+}

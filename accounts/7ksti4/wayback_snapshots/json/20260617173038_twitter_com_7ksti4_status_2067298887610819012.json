@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067143091912593421",
+    "created_at": "2026-06-17T17:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067298887610819012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1825918631433412608",
+          "start": 0,
+          "username": "eeennki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067298887610819012",
+    "in_reply_to_user_id": "1825918631433412608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067143091912593421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eeennki 水到渠成吧！（ ;  ; ）我都是等别人发现我才有朋友的，不然都是一个人，不过一个人也挺清静的…也算一种好事呢（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067143091912593421",
+        "created_at": "2026-06-17T17:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067298887610819012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1825918631433412608",
+              "start": 0,
+              "username": "eeennki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067298887610819012",
+        "in_reply_to_user_id": "1825918631433412608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067143091912593421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eeennki 水到渠成吧！（ ;  ; ）我都是等别人发现我才有朋友的，不然都是一个人，不过一个人也挺清静的…也算一种好事呢（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825918631433412608",
+        "conversation_id": "2067143091912593421",
+        "created_at": "2026-06-17T07:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067143091912593421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067143091912593421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1594,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "思考我为什么在大学里这么孤僻呢 明明以前不是这样的 我想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜喜欢青春期性朋克 青少年音乐，躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 243,
+          "like_count": 3260,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 116
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T15:32:01.000Z",
+        "description": "˙𖦹 ⋆꙳ ໑ ᮫࣭ ꩜ ｡⠀ ⠀⠀ ⠀",
+        "id": "1825918631433412608",
+        "name": "enki",
+        "pinned_tweet_id": "2021621955267625229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065711589626703872/DnFT2rJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 251,
+          "like_count": 5335,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 2346
+        },
+        "username": "eeennki",
+        "verified": false
+      }
+    ]
+  }
+}

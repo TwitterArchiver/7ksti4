@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2035766071815528679",
+    "created_at": "2026-03-22T17:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T18:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035766071815528679"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035766071815528679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一种女孩子，手臂长了好多逼，还会流出生命的潮汐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2035766071815528679",
+        "created_at": "2026-03-22T17:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035766071815528679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035766071815528679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一种女孩子，手臂长了好多逼，还会流出生命的潮汐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "在我还是一个学生的时候我期待有一把大砍刀插进我的脑门",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029776581938561024/yuxJ26Ay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 247,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 82
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

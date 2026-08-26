@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2068634477291856116",
+    "created_at": "2026-06-22T11:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069025263036551615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065950813307187200",
+          "start": 0,
+          "username": "nmsl_yume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069025263036551615",
+    "in_reply_to_user_id": "2065950813307187200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068639952158838916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmsl_yume 快来快来☺️☺️挂壁好酥服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2068634477291856116",
+        "created_at": "2026-06-22T11:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069025263036551615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065950813307187200",
+              "start": 0,
+              "username": "nmsl_yume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069025263036551615",
+        "in_reply_to_user_id": "2065950813307187200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068639952158838916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmsl_yume 快来快来☺️☺️挂壁好酥服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065950813307187200",
+        "conversation_id": "2068634477291856116",
+        "created_at": "2026-06-21T10:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068639952158838916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068639952158838916",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068634477291856116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 让我躺两天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 427,
+          "like_count": 4504,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T00:15:43.000Z",
+        "description": "病み垢 /⚪️D/自傷/友達欲しい/日留\n中文/日本語/EN\n🚪88因为我缺钱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miao98934",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miao98934",
+                "start": 0,
+                "url": "https://t.co/OgT1BvoTWj"
+              }
+            ]
+          }
+        },
+        "id": "2065950813307187200",
+        "location": "東京都内  匿名提问➡️",
+        "name": "yume",
+        "pinned_tweet_id": "2067043944433909873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065951450640121856/iueHJpkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 113,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/OgT1BvoTWj",
+        "username": "nmsl_yume",
+        "verified": false
+      }
+    ]
+  }
+}

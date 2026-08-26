@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "1986816986702401809",
+    "created_at": "2025-11-09T04:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T05:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987381080232693958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966106364901740544",
+          "start": 0,
+          "username": "AgNo3_XQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987381080232693958",
+    "in_reply_to_user_id": "1966106364901740544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986816986702401809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_XQ 我想和你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "1986816986702401809",
+        "created_at": "2025-11-09T04:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T05:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987381080232693958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966106364901740544",
+              "start": 0,
+              "username": "AgNo3_XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987381080232693958",
+        "in_reply_to_user_id": "1966106364901740544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986816986702401809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_XQ 我想和你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966106364901740544",
+        "conversation_id": "1986816986702401809",
+        "created_at": "2025-11-07T15:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986816986702401809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986816986702401809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7025,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想和所有od妹互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "可汗/infj/绝望的滚妹",
+        "id": "1774278217253433344",
+        "name": "红发少年强奸事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854076522317144064/odwkYc51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 183,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 36
+        },
+        "username": "7ksti4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:47:50.000Z",
+        "description": "09｜双相｜istp-t｜bbw｜brat｜巨蟹座｜日常频繁od｜目前已戒割｜顺女双性恋｜反激跨欢迎互fo｜精神无国籍｜meiko爱情梦 六花友情梦｜@Kim_Il_sung___｜顺直男别私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Kim_Il_sung___"
+              }
+            ]
+          }
+        },
+        "id": "1966106364901740544",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅",
+        "pinned_tweet_id": "1983712291809030366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984847362003783680/9OMtxyU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 287,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 909
+        },
+        "username": "AgNo3_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

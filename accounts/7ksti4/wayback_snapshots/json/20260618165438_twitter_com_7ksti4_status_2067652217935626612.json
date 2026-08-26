@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2046272082112323980",
+    "created_at": "2026-06-18T16:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067652217935626612"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067652217935626612",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046272082112323980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜呜…谢谢你！很开心💕🥺💕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046272064135585792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXRmcibYAAFjb7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046272064135565312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXRmcibEAAPIwD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2046272082112323980",
+        "created_at": "2026-06-18T16:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067652217935626612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067652217935626612",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046272082112323980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜…谢谢你！很开心💕🥺💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046272064135585792",
+            "3_2046272064135565312"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "conversation_id": "2046272082112323980",
+        "created_at": "2026-04-20T16:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046272082112323980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ea92a2cHH",
+              "end": 23,
+              "expanded_url": "https://x.com/7ksti4/status/2046272082112323980/photo/1",
+              "media_key": "3_2046272064135585792",
+              "start": 0,
+              "url": "https://t.co/8ea92a2cHH"
+            },
+            {
+              "display_url": "pic.x.com/8ea92a2cHH",
+              "end": 23,
+              "expanded_url": "https://x.com/7ksti4/status/2046272082112323980/photo/1",
+              "media_key": "3_2046272064135565312",
+              "start": 0,
+              "url": "https://t.co/8ea92a2cHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046272082112323980",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8ea92a2cHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08高中生｜od｜自伤｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜可以找我扩列🐣💕",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 298,
+          "like_count": 3675,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 167
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

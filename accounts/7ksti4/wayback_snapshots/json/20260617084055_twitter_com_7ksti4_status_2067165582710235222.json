@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067165573268766720"
+      ]
+    },
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067165582710235222",
+    "created_at": "2026-06-17T08:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067165582710235222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/otkCe4BFBq",
+          "end": 57,
+          "expanded_url": "https://x.com/7ksti4/status/2067165582710235222/photo/1",
+          "media_key": "3_2067165573268766720",
+          "start": 34,
+          "url": "https://t.co/otkCe4BFBq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067165582710235222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没药吃好难受，我又不想吃晚安，两年前吃晚安看到我微信背景要把我杀了 https://t.co/otkCe4BFBq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067165582710235222].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067165582710235222",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067165582710235222"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067165573268766720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAMIvaaAAAl_CY.jpg",
+        "width": 474
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是牙次/08高中生/喜欢青春期性朋克 青少年音乐，躁动的青春期我好想拿起大砍刀杀人/查成分互fo",
+        "id": "1774278217253433344",
+        "name": "哑巴儿歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 261,
+          "like_count": 3127,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 98
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

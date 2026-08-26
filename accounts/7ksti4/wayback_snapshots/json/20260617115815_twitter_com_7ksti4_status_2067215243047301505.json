@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1774278217253433344",
+    "conversation_id": "2067215243047301505",
+    "created_at": "2026-06-17T11:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067215243047301505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "music.apple.com/cn/album/%E9%8…",
+          "end": 32,
+          "expanded_url": "https://music.apple.com/cn/album/%E9%82%A3%E5%95%A5%E5%AD%A3%E8%8A%82-%E9%80%81%E7%BB%99%E4%B8%89%E5%B2%9B%E7%94%B1%E7%BA%AA%E5%A4%AB%E4%BA%86/1874155269?i=1874155273",
+          "start": 9,
+          "unwound_url": "https://music.apple.com/cn/album/%E9%82%A3%E5%95%A5%E5%AD%A3%E8%8A%82-%E9%80%81%E7%BB%99%E4%B8%89%E5%B2%9B%E7%94%B1%E7%BA%AA%E5%A4%AB%E4%BA%86/1874155269?i=1874155273",
+          "url": "https://t.co/H3k7ESvlVr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067215243047301505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "死亡是懦夫的游戏 https://t.co/H3k7ESvlVr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774278217253433344",
+        "conversation_id": "2067215243047301505",
+        "created_at": "2026-06-17T11:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067215243047301505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "music.apple.com/cn/album/%E9%8…",
+              "end": 32,
+              "expanded_url": "https://music.apple.com/cn/album/%E9%82%A3%E5%95%A5%E5%AD%A3%E8%8A%82-%E9%80%81%E7%BB%99%E4%B8%89%E5%B2%9B%E7%94%B1%E7%BA%AA%E5%A4%AB%E4%BA%86/1874155269?i=1874155273",
+              "start": 9,
+              "unwound_url": "https://music.apple.com/cn/album/%E9%82%A3%E5%95%A5%E5%AD%A3%E8%8A%82-%E9%80%81%E7%BB%99%E4%B8%89%E5%B2%9B%E7%94%B1%E7%BA%AA%E5%A4%AB%E4%BA%86/1874155269?i=1874155273",
+              "url": "https://t.co/H3k7ESvlVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067215243047301505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死亡是懦夫的游戏 https://t.co/H3k7ESvlVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "我是牙次/08高中生/喜欢青春期性朋克 青少年音乐，躁动的青春期我好想拿起大砍刀杀人/查成分互fo",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 229,
+          "like_count": 3180,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 107
+        },
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}
